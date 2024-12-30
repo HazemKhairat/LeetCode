@@ -1,56 +1,36 @@
 class Solution {
 public:
-    vector<vector<long>> memo;
     vector<int> maxSumOfThreeSubarrays(vector<int>& nums, int k) {
-        int n = nums.size() - k + 1;
-        memo = vector<vector<long>>(n, vector<long>(4, -1));
-        vector<int> sum(n, 0);
-        int window = 0;
-        for (int i = 0; i < k; i++) {
-            window += nums[i];
+        int n = nums.size();
+        vector<int> prefx(n + 1, 0);
+        for (int i = 1; i <= n; i++) {
+            prefx[i] = prefx[i - 1] + nums[i - 1];
         }
-        sum[0] = window;
-        for (int i = k; i < nums.size(); i++) {
-            window = window - nums[i - k] + nums[i];
-            sum[i - k + 1] = window;
+
+        vector<vector<int>> dpSum(4, vector<int>(n + 1));
+        vector<vector<int>> dpIndex(4, vector<int>(n + 1));
+
+        for (int arr = 1; arr <= 3; arr++) {
+            for (int idx = k; idx <= n; idx++) {
+                int currSum =
+                    dpSum[arr - 1][idx - k] + (prefx[idx] - prefx[idx - k]);
+                if (currSum > dpSum[arr][idx - 1]) {
+                    dpSum[arr][idx] = currSum;
+                    dpIndex[arr][idx] = idx - k;
+                } else {
+                    dpSum[arr][idx] = dpSum[arr][idx - 1];
+                    dpIndex[arr][idx] = dpIndex[arr][idx - 1];
+                }
+            }
         }
-        ComputMemo(sum, 3, 0, k);
-        vector<int> res;
-        dfs(sum, 3, 0, k, res);
+
+        vector<int> res(3);
+        for (int arr = 3; arr >= 1; arr--) {
+            int bestIdx = dpIndex[arr][n];
+            res[arr - 1] = bestIdx;
+            n = bestIdx;
+        }
+
         return res;
-    }
-
-    int ComputMemo(vector<int>& sum, int arrIdx, int sumIdx, int k) {
-        if (arrIdx == 0) {
-            return 0;
-        }
-        if (sumIdx >= sum.size()) {
-            return arrIdx ? INT_MIN : 0;
-        }
-        if(memo[sumIdx][arrIdx] != -1){
-            return memo[sumIdx][arrIdx];
-        }
-        int get = sum[sumIdx] + ComputMemo(sum, arrIdx - 1, sumIdx + k, k);
-        int skip = ComputMemo(sum, arrIdx, sumIdx + 1, k);
-        return memo[sumIdx][arrIdx] = max(get, skip);
-    }
-
-    void dfs(vector<int>& sum, int arrIdx, int sumIdx, int k,
-             vector<int>& res) {
-        if (arrIdx == 0) {
-            return;
-        }
-        if (sumIdx >= sum.size()) {
-            return;
-        }
-        int get = sum[sumIdx] + ComputMemo(sum, arrIdx - 1, sumIdx + k, k);
-        int skip = ComputMemo(sum, arrIdx, sumIdx + 1, k);
-
-        if (get >= skip) {
-            res.push_back(sumIdx);
-            dfs(sum, arrIdx - 1, sumIdx + k, k, res);
-        } else {
-            dfs(sum, arrIdx, sumIdx + 1, k, res);
-        }
     }
 };
