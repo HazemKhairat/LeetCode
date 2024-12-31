@@ -5,7 +5,7 @@ public:
         return dfs(days, costs, 0);
     }
 
-    int findNextIndex(const std::vector<int>& days, int value) {
+    int findNextIndex(vector<int>& days, int value) {
         auto it = upper_bound(days.begin(), days.end(), value);
         return distance(days.begin(), it);
     }
