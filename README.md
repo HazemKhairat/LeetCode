@@ -19,6 +19,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/HazemKhairat/LeetCode/tree/master/0197-rising-temperature) |
 | [1292-immediate-food-delivery-ii](https://github.com/HazemKhairat/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1827-invalid-tweets](https://github.com/HazemKhairat/LeetCode/tree/master/1827-invalid-tweets) |
