@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/HazemKhairat/LeetCode/tree/master/0197-rising-temperature) |
+| [1292-immediate-food-delivery-ii](https://github.com/HazemKhairat/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1827-invalid-tweets](https://github.com/HazemKhairat/LeetCode/tree/master/1827-invalid-tweets) |
 ## String
 |  |
