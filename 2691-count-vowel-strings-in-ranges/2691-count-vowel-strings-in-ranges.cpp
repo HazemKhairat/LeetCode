@@ -3,14 +3,13 @@ public:
     vector<int> vowelStrings(vector<string>& words,
                              vector<vector<int>>& queries) {
         int n = words.size();
+        set<char> vowels{'a', 'e', 'i', 'o', 'u'};
         vector<int> prefx(n + 1);
         int i = 1;
+
         for (auto word : words) {
             char start = word[0], end = word.back();
-            if ((start == 'a' || start == 'e' || start == 'i' || start == 'o' ||
-                 start == 'u') &&
-                (end == 'a' || end == 'e' || end == 'i' || end == 'o' ||
-                 end == 'u')) {
+            if (vowels.count(start) && vowels.count(end)) {
                 prefx[i] = prefx[i - 1] + 1;
             } else {
                 prefx[i] = prefx[i - 1];
@@ -24,6 +23,7 @@ public:
             int res = prefx[right + 1] - prefx[left];
             ans.push_back(res);
         }
+
         return ans;
     }
 };
