@@ -1,12 +1,21 @@
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>& derived) {
-        int ans = 0;
-        
-        for(auto item : derived){
-            ans ^= item;
-        }
+        int n = derived.size();
 
-        return ans == 0;
+        vector<int> original = {0};
+        for(int i = 0; i < n; i++){
+            original.push_back(derived[i] ^ original[i]);
+        }
+        int caseZero = (original[0] == original.back());
+
+        original = {1};
+        for(int i = 0; i < n; i++){
+            original.push_back(derived[i] ^ original[i]);
+        }
+        int caseOne = (original[0] == original.back());
+
+        return (caseZero || caseOne);
+
     }
 };
