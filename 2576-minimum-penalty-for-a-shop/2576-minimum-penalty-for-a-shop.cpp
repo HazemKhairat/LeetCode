@@ -5,7 +5,7 @@ public:
         int res = 0;
         int cost = INT_MAX;
         vector<int> pref(n + 1, 0), suff(n + 2, 0);
-        cout << pref[0] << ' ';
+        
         for(int i = 1; i <= n; i++){
             if(c[i - 1] == 'N'){
                 pref[i] = pref[i - 1] + 1;
@@ -13,9 +13,7 @@ public:
             else{
                 pref[i] = pref[i - 1];
             }
-            cout << pref[i] << " ";
         }
-        cout << endl;
         for(int i = n; i >= 1; i--){
             if(c[i - 1] == 'Y'){
                 suff[i] = suff[i + 1] + 1;
@@ -35,9 +33,7 @@ public:
         if(pref[n] + suff[n + 1] < cost){
             return n;
         }
-        for(auto i :  suff){
-            cout << i <<  ' ';
-        }
+        
         return res;
     }
     
