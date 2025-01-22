@@ -2,18 +2,20 @@ class Solution {
 public:
     long long gridGame(vector<vector<int>>& grid) {
         int n = grid[0].size();
-        vector<long long> pref(grid[0].begin(), grid[0].end()), suff(grid[1].begin(), grid[1].end());
+        vector<long long> pref(n, 0), suff(n, 0);
+        pref[0] = grid[0][0], suff[n - 1] = grid[1][n - 1];
+
         for (int i = 1; i < n; i++) {
-            pref[i] += pref[i - 1];
-            suff[n - i - 1] += suff[n - i];
+            pref[i] += grid[0][i] + pref[i - 1];
+            suff[n - i - 1] += grid[1][n - i - 1] + suff[n - i];
         }
 
-        int col = 0;
         long long res = LLONG_MAX;
-        for (int col = 0; col < n; col++) {
-            long long top = pref[n - 1] - pref[col];
-            long long bottom = suff[0] - suff[col];
-            res = min(res, max(top, bottom));
+        for (int i = 0; i < n; i++) {
+            long long topSum = pref[n - 1] - pref[i];
+            long long bottomSum = suff[0] - suff[i];
+            long long secondRopot = max(topSum, bottomSum);
+            res = min(res, secondRopot);
         }
 
         return res;
