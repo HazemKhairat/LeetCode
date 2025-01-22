@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
@@ -28,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/HazemKhairat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/HazemKhairat/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/HazemKhairat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/HazemKhairat/LeetCode/tree/master/2145-grid-game) |
