@@ -27,14 +27,14 @@ public:
             res.push_back(node);
             return;
         }
-        bool isSafe = true;
+        int count = 0;
         for (auto edge : graph[node]) {
             dfs(graph, edge);
-            if (!terminal[edge] && !safe[edge]) {
-                isSafe = false;
+            if (terminal[edge] || safe[edge]) {
+                count++;
             }
         }
-        if (isSafe) {
+        if (count == graph[node].size()) {
             safe[node] = true;
             res.push_back(node);
         }
