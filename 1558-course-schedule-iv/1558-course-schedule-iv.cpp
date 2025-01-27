@@ -1,37 +1,44 @@
 class Solution {
 public:
-    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
-        map<int, vector<int>> adj;
-        for(auto edge : prerequisites){
-            int u = edge[0], v = edge[1];
-            adj[u].push_back(v);
+    vector<bool> checkIfPrerequisite(int numCourses,
+                                     vector<vector<int>>& prerequisites,
+                                     vector<vector<int>>& queries) {
+        int n = prerequisites.size();
+        vector<set<int>> map(numCourses);
+        for (int i = 0; i < n; i++) {
+            int u = prerequisites[i][0], v = prerequisites[i][1];
+            map[v].insert(u);
         }
 
-        vector<bool> ans;
-
-        for(auto q : queries){
-            vector<bool> visited(numCourses, false);
-            ans.push_back(isPrerequisite(adj, visited, q[0], q[1]));
+        for (int i = 0; i < numCourses; i++) {
+            vector<int> visited(numCourses, false);
+            dfs(i, map, i, visited);
         }
 
-        return ans;
-    }
-
-
-    bool isPrerequisite(map<int, vector<int>> &adj, vector<bool> &visited, int src, int dest){
-        visited[src] = 1;
-        if(src == dest){
-            return true;
-        }
-
-        int ans = false;
-
-        for(auto edge : adj[src]){
-            if(!visited[edge]){
-                ans = ans || isPrerequisite(adj, visited, edge, dest);
+        vector<bool> res;
+        for (auto query : queries) {
+            int course = query[1], prereqest = query[0];
+            if (map[course].count(prereqest) > 0) {
+                res.push_back(true);
+            } else {
+                res.push_back(false);
             }
         }
 
-        return ans;
+        return res;
+    }
+
+    void dfs(int course, vector<set<int>>& map, int& fixedCourse, vector<int>& visited) {
+        visited[course] = true;
+        if (map[course].empty()) {
+            return;
+        }
+
+        for (auto prerequest : map[course]) {
+            if (!visited[prerequest]) {
+                map[fixedCourse].insert(prerequest);
+                dfs(prerequest, map, fixedCourse, visited);
+            }
+        }
     }
 };
