@@ -51,6 +51,7 @@
 | [1278-product-price-at-a-given-date](https://github.com/HazemKhairat/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/HazemKhairat/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1827-invalid-tweets](https://github.com/HazemKhairat/LeetCode/tree/master/1827-invalid-tweets) |
+| [1942-primary-department-for-each-employee](https://github.com/HazemKhairat/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 ## String
 |  |
 | ------- |
