@@ -1,88 +1,63 @@
 class Solution {
-private:
-    int exploreIsland(vector<vector<int>>& grid, int islandId, int currentRow,
-                      int currentColumn) {
-        if (currentRow < 0 || currentRow >= grid.size() || currentColumn < 0 ||
-            currentColumn >= grid[0].size() ||
-            grid[currentRow][currentColumn] != 1)
-            return 0;
+public:
+    vector<vector<int>> dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    int largestIsland(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int landNum = 2;
+        unordered_map<int, int> islands;
+        for (int r = 0; r < n; r++) {
+            for (int c = 0; c < n; c++) {
+                if (grid[r][c] == 1) {
+                    int res = dfs(grid, r, c, landNum);
+                    islands[landNum] = res;
+                    // cout << landNum << " => " << islands[landNum] << endl;
+                    landNum++;
+                }
+            }
+        }
 
-        grid[currentRow][currentColumn] = islandId;
-        return 1 +
-               exploreIsland(grid, islandId, currentRow + 1, currentColumn) +
-               exploreIsland(grid, islandId, currentRow - 1, currentColumn) +
-               exploreIsland(grid, islandId, currentRow, currentColumn + 1) +
-               exploreIsland(grid, islandId, currentRow, currentColumn - 1);
+        int res = 0;
+        for (auto& item : islands) {
+            res = max(res, item.second);
+        }
+
+        for (int r = 0; r < n; r++) {
+            for (int c = 0; c < n; c++) {
+                if (grid[r][c] == 0) {
+                    int tmp = 1;
+                    unordered_set<int> visited;
+                    for (auto dir : dirs) {
+                        int nr = r + dir[0];
+                        int nc = c + dir[1];
+                        if (!outOfBound(nr, nc, n) &&
+                            !visited.count(grid[nr][nc])) {
+                            tmp += islands[grid[nr][nc]];
+                            visited.insert(grid[nr][nc]);
+                        }
+                    }
+                    res = max(res, tmp);
+                }
+            }
+        }
+
+        return res;
     }
 
-public:
-    int largestIsland(vector<vector<int>>& grid) {
-        unordered_map<int, int> islandSizes;
-        int islandId = 2;
-
-        for (int currentRow = 0; currentRow < grid.size(); ++currentRow) {
-            for (int currentColumn = 0; currentColumn < grid[0].size();
-                 ++currentColumn) {
-                if (grid[currentRow][currentColumn] == 1) {
-                    islandSizes[islandId] = exploreIsland(
-                        grid, islandId, currentRow, currentColumn);
-                    ++islandId;
-                }
-            }
+    int dfs(vector<vector<int>>& grid, int r, int c, int land) {
+        if (outOfBound(r, c, grid.size()) || grid[r][c] != 1) {
+            return 0;
         }
-
-        if (islandSizes.empty()) {
-            return 1;
+        grid[r][c] = land;
+        int res = 1;
+        for (auto dir : dirs) {
+            int nr = r + dir[0];
+            int nc = c + dir[1];
+            res += dfs(grid, nr, nc, land);
         }
-        if (islandSizes.size() == 1) {
-            --islandId;
-            return (islandSizes[islandId] == grid.size() * grid[0].size())
-                       ? islandSizes[islandId]
-                       : islandSizes[islandId] + 1;
-        }
+        return res;
+    }
 
-        int maxIslandSize = 1;
-
-        for (int currentRow = 0; currentRow < grid.size(); ++currentRow) {
-            for (int currentColumn = 0; currentColumn < grid[0].size();
-                 ++currentColumn) {
-                if (grid[currentRow][currentColumn] == 0) {
-                    int currentIslandSize = 1;
-                    unordered_set<int> neighboringIslands;
-
-                    if (currentRow + 1 < grid.size() &&
-                        grid[currentRow + 1][currentColumn] > 1) {
-                        neighboringIslands.insert(
-                            grid[currentRow + 1][currentColumn]);
-                    }
-
-                    if (currentRow - 1 >= 0 &&
-                        grid[currentRow - 1][currentColumn] > 1) {
-                        neighboringIslands.insert(
-                            grid[currentRow - 1][currentColumn]);
-                    }
-
-                    if (currentColumn + 1 < grid[0].size() &&
-                        grid[currentRow][currentColumn + 1] > 1) {
-                        neighboringIslands.insert(
-                            grid[currentRow][currentColumn + 1]);
-                    }
-
-                    if (currentColumn - 1 >= 0 &&
-                        grid[currentRow][currentColumn - 1] > 1) {
-                        neighboringIslands.insert(
-                            grid[currentRow][currentColumn - 1]);
-                    }
-
-                    for (int id : neighboringIslands) {
-                        currentIslandSize += islandSizes[id];
-                    }
-
-                    maxIslandSize = max(maxIslandSize, currentIslandSize);
-                }
-            }
-        }
-
-        return maxIslandSize;
+    bool outOfBound(int r, int c, int n) {
+        return (r < 0 || c < 0 || r == n || c == n);
     }
 };
