@@ -6,8 +6,9 @@
  */
 var reduce = function(nums, fn, init) {
     let res = init;
-    for(const n of nums){
-        res = fn(res, n);
-    }
+    nums.forEach(num => {
+        res = fn(res, num);
+    });
+    
     return res;
 };
