@@ -49,6 +49,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/HazemKhairat/LeetCode/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/HazemKhairat/LeetCode/tree/master/0197-rising-temperature) |
 | [0585-investments-in-2016](https://github.com/HazemKhairat/LeetCode/tree/master/0585-investments-in-2016) |
