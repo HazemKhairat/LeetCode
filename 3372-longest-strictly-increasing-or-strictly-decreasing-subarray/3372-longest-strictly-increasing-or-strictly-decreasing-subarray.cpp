@@ -6,13 +6,12 @@ public:
         for (int i = 1; i < n; i++) {
             if (nums[i] > nums[i - 1]) {
                 inc++;
+                dec = 1;
+            } else if (nums[i] < nums[i - 1]) {
+                dec++;
+                inc = 1;
             } else {
                 inc = 1;
-            }
-
-            if (nums[i] < nums[i - 1]) {
-                dec++;
-            } else {
                 dec = 1;
             }
             longest = max(longest, max(inc, dec));
