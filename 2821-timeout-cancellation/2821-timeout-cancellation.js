@@ -5,9 +5,15 @@
  * @return {Function}
  */
 var cancellable = function (fn, args, t) {
-    var timeOutId = setTimeout(() => fn(...args), t);
-    const cancelfn = function () { clearTimeout(timeOutId) }
-    return cancelfn;
+    let timeOutId = setTimeout(function (){
+        return fn(...args);
+    }, t);
+
+    let cancel = function (){
+        clearTimeout(timeOutId);
+    }
+
+    return cancel;
 };
 
 /**
