@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -242,6 +243,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HazemKhairat/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Two Pointers
