@@ -9,7 +9,6 @@ public:
             }
             tmp += nums[i];
         }
-        maxSum = max(maxSum, tmp);
-        return maxSum;
-    }
+        return max(maxSum, tmp);
+    };
 };
