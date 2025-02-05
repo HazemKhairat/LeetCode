@@ -1,23 +1,19 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        string reversedVowerls = "";
-        for (char ch : s) {
-            if (tolower(ch) == 'a' || tolower(ch) == 'e' ||
-                tolower(ch) == 'i' || tolower(ch) == 'o' ||
-                tolower(ch) == 'u') {
-                reversedVowerls.push_back(ch);
-            }
-        }
+        string vowels = "aeiouAEIOU";
 
-        for (int i = 0; i < s.size(); i++) {
-            char ch = s[i];
-            if (tolower(ch) == 'a' || tolower(ch) == 'e' ||
-                tolower(ch) == 'i' || tolower(ch) == 'o' ||
-                tolower(ch) == 'u') {
-                s[i] = reversedVowerls.back();
-                reversedVowerls.pop_back();
+        int left = 0, right = s.size() - 1;
+        while (left <= right) {
+            while (left < right && vowels.find(s[left]) == string::npos) {
+                left++;
             }
+            while (left < right && vowels.find(s[right]) == string::npos) {
+                right--;
+            }
+            swap(s[left], s[right]);
+            left++;
+            right--;
         }
 
         return s;
