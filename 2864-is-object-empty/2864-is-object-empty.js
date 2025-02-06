@@ -4,5 +4,10 @@
  */
 var isEmpty = function (obj) {
     // console.log(JSON.stringify(obj).length);
-    return JSON.stringify(obj).length == 2;
+    // console.log(Object.keys(obj).length); 
+    for (var item in obj) {
+        return false;
+    }
+    return true;
+    // return JSON.stringify(obj).length == 2;
 };
