@@ -12,10 +12,8 @@
  */
 class Solution {
 public:
-    vector<int> v1, v2;
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        v1 = vector<int>();
-        v2 = vector<int>();
+        vector<int> v1, v2;
         dfs(root1, v1);
         dfs(root2, v2);
         return v1 == v2;
@@ -24,7 +22,6 @@ public:
     void dfs(TreeNode* node, vector<int>& v) {
         if (node == nullptr) {
             return;
-            ;
         }
         if (node->left == nullptr && node->right == nullptr) {
             v.push_back(node->val);
