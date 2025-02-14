@@ -2,19 +2,19 @@ class Solution {
 public:
     int equalPairs(vector<vector<int>>& grid) {
         int n = grid.size(), count = 0;
-        vector<int> row(n), col(n);
+        map<vector<int>, int> mp;
         for (int i = 0; i < n; i++) {
-            for (int k = 0; k < n; k++) {
-                row[k] = grid[i][k];
-            }
-            for (int j = 0; j < n; j++) {
-                for (int k = 0; k < n; k++) {
-                    col[k] = grid[k][j];
-                }
-                if (row == col)
-                    count++;
-            }
+            mp[grid[i]]++;
         }
+
+        for (int i = 0; i < n; i++) {
+            vector<int> v;
+            for (int j = 0; j < n; j++) {
+                v.push_back(grid[j][i]);
+            }
+            count += mp[v];
+        }
+        
         return count;
     }
 };
