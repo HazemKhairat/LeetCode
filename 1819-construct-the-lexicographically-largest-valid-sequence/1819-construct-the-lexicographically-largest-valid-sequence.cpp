@@ -11,12 +11,11 @@ public:
         if (i == res.size()) {
             return true;
         }
-
         for (int num = n; num >= 1; num--) {
             if (used.count(num)) {
                 continue;
             }
-            if (num > 1 && (i + num >= res.size() or res[i + num])) {
+            if (num > 1 && (i + num >= res.size() || res[i + num])) {
                 continue;
             }
 
@@ -25,15 +24,12 @@ public:
             if (num > 1) {
                 res[i + num] = num;
             }
+
             int j = i + 1;
             while (j < res.size() && res[j]) {
                 j++;
             }
 
-            // for (int index = 0; index < res.size(); index++) {
-            //     cout << res[index] << " ";
-            // }
-            // cout << endl;
             if (backtrack(j, res, n, used)) {
                 return true;
             }
@@ -44,6 +40,7 @@ public:
                 res[i + num] = 0;
             }
         }
+
         return false;
     }
 };
