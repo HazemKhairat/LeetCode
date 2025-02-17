@@ -2,28 +2,24 @@ class Solution {
 public:
     int numTilePossibilities(string tiles) {
         set<string> res;
-        set<int> used;
-        backtrack(0, tiles, res, used, "");
+        vector<bool> used(tiles.size() + 1, 0);
+        backtrack(tiles, res, used, "");
         return res.size();
     }
 
-    void backtrack(int idx, string& tiles, set<string>& res, set<int>& used,
+    void backtrack(string& tiles, set<string>& res, vector<bool>& used,
                    string substr) {
         // cout << substr << endl;
-        if (idx == tiles.size()) {
-            return;
-        }
-        
         for (int i = 0; i < tiles.size(); i++) {
-            if (used.count(i)) {
+            if (used[i]) {
                 continue;
             }
             substr.push_back(tiles[i]);
             res.insert(substr);
-            used.insert(i);
-            backtrack(idx + 1, tiles, res, used, substr);
+            used[i] = true;
+            backtrack(tiles, res, used, substr);
             substr.pop_back();
-            used.erase(i);
+            used[i] = false;
         }
     }
 };
