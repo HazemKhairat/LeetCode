@@ -1,33 +1,22 @@
 class Solution {
 public:
     string smallestNumber(string pattern) {
-        int n = pattern.size() + 1;
-        vector<bool> used(n + 5, 0);
-        string res = "";
-        backtrack(0, res, used, n, pattern);
-        return res;
-    }
+        // STK.PUSH(INDEX + 1) = [7]
+        // 0 1 2 3 4 5 6
+        // D D D D I I _ -> 6
+        // 5 4 3 2 1 6 7
 
-    void backtrack(int idx, string& res, vector<bool>& used, int n,
-                   string pattern) {
-        if (res.size() == n) {
-            return;
-        }
-        for (int i = 1; i <= n; i++) {
-            if (used[i]) {
-                continue;
-            }
-            if (idx == 0 ||
-                (pattern[idx - 1] == 'I' && (i + '0') > res.back()) ||
-                (pattern[idx - 1] == 'D' && (i + '0') < res.back())) {
-                used[i] = true;
-                res.push_back(('0' + i));
-                backtrack(idx + 1, res, used, n, pattern);
-                if (res.size() == n)
-                    return;
-                used[i] = false;
-                res.pop_back();
+        string res;
+        stack<int> stk;
+
+        for (int i = 0; i <= pattern.size(); i++) {
+            stk.push(i + 1);
+            while ((i == pattern.size() || pattern[i] == 'I') && !stk.empty()) {
+                res += ('0' + stk.top());
+                stk.pop();
             }
         }
+
+        return res;
     }
 };
