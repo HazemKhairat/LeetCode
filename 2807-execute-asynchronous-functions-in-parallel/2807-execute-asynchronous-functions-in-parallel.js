@@ -9,19 +9,20 @@ var promiseAll = function (functions) {
             return;
         }
 
-        let countResolved = 0;
+        let resolvedCount = 0;
         const res = new Array(functions.length).fill(null);
 
-        functions.forEach((fun, idx) => {
-            fun().then((val) => {
-                res[idx] = val;
-                countResolved++;
-                if (countResolved == functions.length) {
+        functions.forEach(async (fun, idx) => {
+            try {
+                res[idx] = await fun();
+                resolvedCount++;
+                if (resolvedCount == functions.length) {
                     resolve(res);
                 }
-            }).catch((error) => {
+            }
+            catch (error) {
                 reject(error);
-            })
+            }
         });
     });
 };
