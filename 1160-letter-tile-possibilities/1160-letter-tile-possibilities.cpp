@@ -1,25 +1,28 @@
 class Solution {
 public:
     int numTilePossibilities(string tiles) {
-        set<string> res;
-        vector<bool> used(tiles.size() + 1, 0);
-        backtrack(tiles, res, used, "");
-        return res.size();
+        map<char, int> freq;
+        for (auto ch : tiles) {
+            freq[ch]++;
+        }
+        return backtrack(freq);
     }
 
-    void backtrack(string& tiles, set<string>& res, vector<bool>& used,
-                   string substr) {
-        // cout << substr << endl;
-        for (int i = 0; i < tiles.size(); i++) {
-            if (used[i]) {
+    int backtrack(map<char, int>& freq) {
+        int count = 0;
+        for (auto item : freq) {
+            char ch = item.first;
+            int num = item.second;
+            if (num == 0) {
                 continue;
             }
-            substr.push_back(tiles[i]);
-            res.insert(substr);
-            used[i] = true;
-            backtrack(tiles, res, used, substr);
-            substr.pop_back();
-            used[i] = false;
+
+            count++;
+            freq[ch]--;
+            count += backtrack(freq);
+            freq[ch]++;
         }
+
+        return count;
     }
 };
