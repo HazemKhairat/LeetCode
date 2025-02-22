@@ -94,6 +94,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/HazemKhairat/LeetCode/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HazemKhairat/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -286,6 +287,7 @@
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/HazemKhairat/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -373,11 +375,13 @@
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Backtracking
 |  |
