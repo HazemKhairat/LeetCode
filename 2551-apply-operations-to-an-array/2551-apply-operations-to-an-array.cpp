@@ -1,24 +1,20 @@
 class Solution {
 public:
     vector<int> applyOperations(vector<int>& nums) {
-        int n = nums.size();
+        int n = nums.size(), writeIdx = 0;
 
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i] == nums[i + 1]) {
+        for (int i = 0; i < n; i++) {
+            if (i < n - 1 && nums[i] == nums[i + 1] && nums[i] != 0) {
                 nums[i] *= 2;
                 nums[i + 1] = 0;
             }
-        }
 
-        int nonZeroIdx = 0;
-        for (int idx = 0; idx < n; idx++) {
-            if (nums[idx]) {
-                nums[nonZeroIdx++] = nums[idx];
+            if (nums[i]) {
+                if (i != writeIdx) {
+                    swap(nums[i], nums[writeIdx]);
+                }
+                writeIdx++;
             }
-        }
-
-        while (nonZeroIdx < n) {
-            nums[nonZeroIdx++] = 0;
         }
 
         return nums;
