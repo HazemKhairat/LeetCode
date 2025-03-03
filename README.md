@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
@@ -112,6 +113,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/HazemKhairat/LeetCode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
