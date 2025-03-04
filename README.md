@@ -11,6 +11,7 @@
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/HazemKhairat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HazemKhairat/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -77,6 +78,7 @@
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/HazemKhairat/LeetCode/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1502-construct-k-palindrome-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HazemKhairat/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -345,6 +348,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
