@@ -1,30 +1,23 @@
 class Solution {
 public:
-    vector<vector<int>> memo;
     int maxProfit(vector<int>& prices, int fee) {
-        memo = vector<vector<int>>(2, vector<int>(prices.size() + 5));
-        return solve(prices, fee, 0, 1);
-    }
+        int n = prices.size();
+        vector<vector<int>> dp(n + 1, vector<int>(2));
+        dp[n][0] = 0, dp[n][1] = 0;
 
-    int solve(vector<int>& prices, int& fee, int index, bool buy) {
-        if (index >= prices.size()) {
-            return 0;
-        }
-        if (memo[buy][index]) {
-            return memo[buy][index];
-        }
-        int profit = 0;
-
-        if (buy) {
-            int take = -prices[index] + solve(prices, fee, index + 1, 0);
-            int skip = solve(prices, fee, index + 1, 1);
-            profit = max(take, skip);
-        } else {
-            int sell = prices[index] - fee + solve(prices, fee, index + 1, 1);
-            int skip = solve(prices, fee, index + 1, 0);
-            profit = max(sell, skip);
+        for (int idx = n - 1; idx >= 0; idx--) {
+            for (int canBuy = 1; canBuy >= 0; canBuy--) {
+                int buy = INT_MIN, sell = INT_MIN;
+                if (canBuy) {
+                    buy = -prices[idx] + dp[idx + 1][!canBuy];
+                } else {
+                    sell = prices[idx] - fee + dp[idx + 1][!canBuy];
+                }
+                int skip = dp[idx + 1][canBuy];
+                dp[idx][canBuy] = max({buy, sell, skip});
+            }
         }
 
-        return memo[buy][index] = profit;
+        return dp[0][1];
     }
 };
