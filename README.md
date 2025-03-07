@@ -282,6 +282,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HazemKhairat/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/HazemKhairat/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HazemKhairat/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HazemKhairat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HazemKhairat/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/HazemKhairat/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -454,6 +457,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HazemKhairat/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
