@@ -16,6 +16,7 @@ public:
 
     vector<int> get_primes(int left, int right) {
         vector<bool> primes(right + 1, true);
+        primes[0] = false, primes[1] = false;
         vector<int> res;
         for (int p = 2; p * p <= right; p++) {
             if (primes[p]) {
@@ -26,7 +27,7 @@ public:
         }
 
         for (int i = left; i < primes.size(); i++) {
-            if (i != 1 && primes[i]) {
+            if (primes[i]) {
                 res.push_back(i);
             }
         }
