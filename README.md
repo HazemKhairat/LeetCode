@@ -284,6 +284,7 @@
 | [0279-perfect-squares](https://github.com/HazemKhairat/LeetCode/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/HazemKhairat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HazemKhairat/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -301,6 +302,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/HazemKhairat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HazemKhairat/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -343,6 +345,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/HazemKhairat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HazemKhairat/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -360,6 +363,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/HazemKhairat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
