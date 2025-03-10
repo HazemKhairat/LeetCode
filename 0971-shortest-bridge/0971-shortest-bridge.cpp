@@ -9,7 +9,7 @@ public:
                 if (grid[i][j] == 1) {
                     dfs(grid, i, j);
                     idx1 = i, idx2 = j;
-                    cout << idx1 << " " << idx2 << endl;
+                    // cout << idx1 << " " << idx2 << endl;
                     ok = true;
                     break;
                 }
@@ -30,10 +30,10 @@ public:
         vector<vector<bool>> visited(n, vector<bool>(n));
         vector<vector<int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         queue<vector<int>> q;
-        
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(grid[i][j] == 2){
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 2) {
                     q.push({i, j, 0});
                     visited[i][j] = true;
                 }
