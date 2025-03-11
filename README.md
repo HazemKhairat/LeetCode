@@ -123,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +177,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -290,6 +292,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/HazemKhairat/LeetCode/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
