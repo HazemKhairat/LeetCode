@@ -1,6 +1,10 @@
 class Solution {
 public:
     int ladderLength(string start, string end, vector<string>& wordList) {
+        if(find(wordList.begin(), wordList.end(), end) == wordList.end()){
+            return 0;
+        }
+        
         queue<string> q;
         q.push(start);
         unordered_set<string> vis;
