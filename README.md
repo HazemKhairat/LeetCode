@@ -47,6 +47,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/HazemKhairat/LeetCode/tree/master/1651-shuffle-string) |
+| [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HazemKhairat/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -438,6 +439,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/HazemKhairat/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -455,6 +457,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HazemKhairat/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/HazemKhairat/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HazemKhairat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
