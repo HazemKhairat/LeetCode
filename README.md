@@ -242,6 +242,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/HazemKhairat/LeetCode/tree/master/0279-perfect-squares) |
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
@@ -457,6 +458,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HazemKhairat/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HazemKhairat/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -474,6 +476,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/HazemKhairat/LeetCode/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/HazemKhairat/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -568,4 +571,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/HazemKhairat/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
