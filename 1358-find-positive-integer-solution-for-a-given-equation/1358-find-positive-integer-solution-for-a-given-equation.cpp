@@ -14,18 +14,15 @@ class Solution {
 public:
     vector<vector<int>> findSolution(CustomFunction& customfunction, int z) {
         vector<vector<int>> res;
-        for (int x = 1; x <= 1000; x++) {
-            int left = 1, right = 1000;
-            while (left <= right) {
-                int y = (left + right) / 2;
-                if (customfunction.f(x, y) > z) {
-                    right = y - 1;
-                } else if (customfunction.f(x, y) < z) {
-                    left = y + 1;
-                } else {
-                    res.push_back({x, y});
-                    break;
-                }
+        int x = 1, y = 1000;
+        while (x <= 1000 && y > 0) {
+            int tmp = customfunction.f(x, y);
+            if (tmp > z) {
+                y--;
+            } else if (tmp < z) {
+                x++;
+            } else {
+                res.push_back({x++, y--});
             }
         }
         return res;
