@@ -13,22 +13,17 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        if(root == nullptr) return 0;
-        int res = 0;
-        dfs(res, root);
-        return res + 1;
-    }
-
-    void dfs(int& res, TreeNode* root) {
-        if(!root){
-            return;
+        if (!root) {
+            return false;
         }
-        else if (root->left && root->right) {
-            res += 2;
-        } else if (root->left || root->right) {
-            res++;
-        }
-        dfs(res, root->left);
-        dfs(res, root->right);
+        int l = 1, r = 1;
+        TreeNode *left = root, *right = root;
+        while (left = left->left)
+            l++;
+        while (right = right->right)
+            r++;
+        if (l == r)
+            return (1 << l) - 1;
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
