@@ -231,6 +231,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/HazemKhairat/LeetCode/tree/master/2509-minimize-xor) |
@@ -452,6 +453,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HazemKhairat/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HazemKhairat/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -530,6 +532,7 @@
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -540,6 +543,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
