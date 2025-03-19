@@ -75,6 +75,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HazemKhairat/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HazemKhairat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/HazemKhairat/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/HazemKhairat/LeetCode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HazemKhairat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -471,6 +472,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/HazemKhairat/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HazemKhairat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/HazemKhairat/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/HazemKhairat/LeetCode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
