@@ -93,6 +93,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HazemKhairat/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HazemKhairat/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -263,6 +264,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HazemKhairat/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HazemKhairat/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HazemKhairat/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
