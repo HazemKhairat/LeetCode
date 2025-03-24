@@ -1,26 +1,17 @@
 class Solution {
 public:
     int countDays(int days, vector<vector<int>>& meetings) {
-        map<int, int> mp;
-        int sum = 0, freeDays = 0, prevDay = days;
-
-        for (int i = 0; i < meetings.size(); i++) {
-            prevDay = min(prevDay, meetings[i][0]);
-            mp[meetings[i][0]]++;
-            mp[meetings[i][1] + 1]--;
-        }
-
-        freeDays += (prevDay - 1);
-        for (auto m : mp) {
-            int curr = m.first;
-            if (sum == 0) {
-                freeDays += curr - prevDay;
+        sort(meetings.begin(), meetings.end());
+        
+        int free = 0, maxEnd = 0;
+        for(auto meeting : meetings){
+            int start = meeting[0], end = meeting[1];
+            if(start > maxEnd){
+                free += (start - maxEnd) - 1;
             }
-            sum += m.second;
-            prevDay = curr;
+            maxEnd = max(maxEnd, end);
         }
-
-        freeDays += days - prevDay + 1;
-        return freeDays;
+        free += (days - maxEnd);
+        return free;
     }
 };
