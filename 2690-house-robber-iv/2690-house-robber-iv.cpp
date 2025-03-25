@@ -1,24 +1,24 @@
 class Solution {
 public:
     int minCapability(vector<int>& nums, int k) {
-        int minReward = 1, maxReward = *max_element(nums.begin(), nums.end()), totalHouses = nums.size();
-        while (minReward < maxReward) {
-            int midReward = (minReward + maxReward) / 2;
-            int possibleThefts = 0;
-
-            for (int index = 0; index < totalHouses; ++index) {
-                if (nums[index] <= midReward) {
-                    possibleThefts += 1;
-                    index++;
+        int left = 1, right = *max_element(nums.begin(), nums.end());
+        int minCap = right;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            int count = 0;
+            for (int i = 0; i < nums.size(); i++) {
+                if (nums[i] <= mid) {
+                    count++;
+                    i++;
                 }
             }
-
-            if (possibleThefts >= k)
-                maxReward = midReward;
-            else
-                minReward = midReward + 1;
+            if (count >= k) {
+                right = mid;
+                minCap = mid;
+            } else {
+                left = mid + 1;
+            }
         }
-
-        return minReward;
+        return minCap;
     }
 };
