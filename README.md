@@ -30,6 +30,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HazemKhairat/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/HazemKhairat/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
@@ -371,6 +372,7 @@
 | [0871-keys-and-rooms](https://github.com/HazemKhairat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/HazemKhairat/LeetCode/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/HazemKhairat/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
@@ -426,6 +428,7 @@
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HazemKhairat/LeetCode/tree/master/0971-shortest-bridge) |
+| [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -457,6 +460,7 @@
 | [0904-leaf-similar-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/HazemKhairat/LeetCode/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/HazemKhairat/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
@@ -477,6 +481,7 @@
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HazemKhairat/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
