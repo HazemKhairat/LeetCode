@@ -411,6 +411,7 @@
 | [1558-course-schedule-iv](https://github.com/HazemKhairat/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HazemKhairat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1738-maximal-network-rank](https://github.com/HazemKhairat/LeetCode/tree/master/1738-maximal-network-rank) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HazemKhairat/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HazemKhairat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HazemKhairat/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
