@@ -1,24 +1,20 @@
 class Solution {
 public:
-    vector<int> cashe;
     int climbStairs(int n) {
-        cashe.resize(n + 1, -1);
-        return dp(n);
-    }
+        /*
+        n = 5 , res -> 8
+        dp 0 1 2 3 4 5
+           1 1 2 3 5 8
+        */
 
-    int dp(int n) {
-        if (n < 0) {
-            return 0;
+        int first = 1, second = 1, res = 0;
+
+        for (int i = 2; i <= n; i++) {
+            res = first + second;
+            first = second;
+            second = res;
         }
-        if (n == 0) {
-            return 1;
-        }
-        if (cashe[n] != -1) {
-            return cashe[n];
-        }
-        int one = 0, two = 0;
-        one += dp(n - 1);
-        two += dp(n - 2);
-        return cashe[n] = one + two;
+
+        return n > 1 ? res : 1;
     }
 };
