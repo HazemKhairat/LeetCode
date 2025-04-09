@@ -1,22 +1,22 @@
 class Solution {
 public:
-    vector<int> dp;
     int minCostClimbingStairs(vector<int>& cost) {
-        int n = cost.size();
-        dp = vector<int>(n, -1);
-        return solve(cost, 1);
-    }
+        /*
+                0  1  2 3 4  5  6 7  8  9
+            ex: 1,100,1,1,1,100,1,1,100,1
 
-    int solve(vector<int>& cost, int index) {
-        if (index >= cost.size()) {
-            return 0;
+            prev = 1, curr = 100
+            index = 9
+            tmp = 100 + 5 = 105
+            prev = 6
+            curr = 105
+        */
+        int prev = cost[0], curr = cost[1];
+        for (int i = 2; i < cost.size(); i++) {
+            int tmp = cost[i] + min(prev, curr);
+            prev = curr;
+            curr = tmp;
         }
-        if (dp[index] != -1) {
-            return dp[index];
-        }
-        int one = cost[index - 1] + solve(cost, index + 1);
-        int two = cost[index] + solve(cost, index + 2);
-
-        return dp[index] = min(one, two);
+        return min(prev, curr);
     }
 };
