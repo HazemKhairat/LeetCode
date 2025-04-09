@@ -1,16 +1,32 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        if(n < 2) return nums[0];
-        
-        vector<int> dp(n + 1);
-        dp[1] = nums[0];
+        /*
+            0 1 2 3 4
+            2 7 9 3 1
 
-        for(int i = 2; i <= n; i++){
-            dp[i] = max(dp[i - 1], nums[i - 1] + dp[i - 2]);
+            prev = 2
+            curr = 7
+
+            formula max(curr, prev + nums[i])
+
+            index = 4
+            tmp = 1 + 11 or 11 = 12
+            prev = 11
+            curr = 12
+        */
+        if (nums.size() == 1) {
+            return nums[0];
         }
 
-        return dp[n];
+        int prev = nums[0], curr = nums[1];
+
+        for (int i = 2; i < nums.size(); i++) {
+            int tmp = max(curr, prev + nums[i]);
+            prev = max(prev, curr);
+            curr = max(curr, tmp);
+        }
+
+        return max(prev, curr);
     }
 };
