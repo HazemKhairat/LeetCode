@@ -59,6 +59,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/HazemKhairat/LeetCode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HazemKhairat/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -744,6 +745,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Monotonic Stack
