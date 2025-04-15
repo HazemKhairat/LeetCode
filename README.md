@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -133,6 +134,7 @@
 | [0063-unique-paths-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HazemKhairat/LeetCode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/HazemKhairat/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
