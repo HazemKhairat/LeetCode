@@ -1,23 +1,13 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         wordSet = set(wordDict)
-        memo = {}
+        dp = [False] * (len(s) + 1)
+        dp[0] = True  # empty string can be always segmented
 
-        def canBreak(start):
-            if start == len(s):
-                return True
+        for i in range(1, len(s) + 1):
+            for j in range(i):
+                if dp[j] and s[j:i] in wordSet:
+                    dp[i] = True
+                    break
 
-            if start in memo:
-                return memo[start]
-
-            # 0 1 2 3 4 5 6 7 8
-            # l e e t c o d e
-            for end in range(start + 1, len(s) + 1):
-                if s[start:end] in wordSet and canBreak(end):
-                    memo[start] = True
-                    return True
-
-            memo[start] = False
-            return False
-
-        return canBreak(0)
+        return dp[-1]
