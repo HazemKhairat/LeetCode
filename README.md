@@ -8,6 +8,7 @@
 | [0063-unique-paths-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/HazemKhairat/LeetCode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0283-move-zeroes) |
@@ -139,6 +140,7 @@
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HazemKhairat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/HazemKhairat/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/HazemKhairat/LeetCode/tree/master/0279-perfect-squares) |
@@ -191,6 +193,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HazemKhairat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/HazemKhairat/LeetCode/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/HazemKhairat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
@@ -368,6 +372,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HazemKhairat/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -772,6 +777,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HazemKhairat/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
