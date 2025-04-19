@@ -1,19 +1,23 @@
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
-        memo = [[-1 for _ in range(1009)] for _ in range(1009)]
+        n = len(s)
+        dp = [[0] * n for _ in range(n)]
 
-        def dfs(i, j):
-            if i > j:
-                return 0
-            if i == j:
-                return 1
-            if memo[i][j] != -1:
-                return memo[i][j]
+        for i in range(n):
+            dp[i][i] = 1
 
-            if s[i] == s[j]:
-                memo[i][j] = 2 + dfs(i + 1, j - 1)
+        for i in range(n - 1):
+            if s[i] == s[i + 1]:
+                dp[i][i + 1] = 2
             else:
-                memo[i][j] = max(dfs(i + 1, j), dfs(i, j - 1))
-            return memo[i][j]
+                dp[i][i + 1] = 1
 
-        return dfs(0, len(s) - 1)
+        for length in range(2, n):
+            for i in range(n - length):
+                j = length + i
+                if s[i] == s[j]:
+                    dp[i][j] = 2 + dp[i + 1][j - 1]
+                else:
+                    dp[i][j] = max(dp[i + 1][j], dp[i][j - 1])
+
+        return max(dp[0][-1], 1)
