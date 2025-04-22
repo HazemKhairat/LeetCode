@@ -1,18 +1,14 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        n = len(nums) + 5
-        dp = [-1] * n 
+        n = len(nums)
+        dp = [1] * n
 
-        def solve(i, prev_index):
-            if i == len(nums):
-                return 0
-            if dp[prev_index + 1] != -1:
-                return dp[prev_index + 1]
-            take, skip = 0, 0
-            if prev_index < 0 or nums[i] > nums[prev_index]:
-                take = 1 + solve(i + 1, i)
-            skip = solve(i + 1, prev_index)
-            dp[prev_index + 1] = max(take, skip)
-            return dp[prev_index + 1]
+        # 0  1 2 3 4 5  6  7
+        # 10 9 2 5 3 7 101 18
+        #  1 1 1 2 2 3  4   4
 
-        return solve(0, -1)
+        for i in range(1, n):
+            for j in range(i):
+                if nums[i] > nums[j]:
+                    dp[i] = max(dp[i], 1 + dp[j])
+        return max(dp)
