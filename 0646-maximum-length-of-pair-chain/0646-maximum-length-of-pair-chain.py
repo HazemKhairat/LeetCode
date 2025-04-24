@@ -1,16 +1,16 @@
 class Solution:
     def findLongestChain(self, pairs: List[List[int]]) -> int:
         n = len(pairs)
-        pairs.sort()
+        pairs.sort(key=lambda x: x[1])
         # print(pairs)
-        memo = [[-1] * n for _ in range(n)]
+        memo = [-1] * n
 
         def solve(index, prev):
             if index == n:
                 return 0
 
-            if memo[index][prev] != -1:
-                return memo[index][prev]
+            if memo[index] != -1:
+                return memo[index]
 
             take, skip = 0, 0
             if prev == -1 or pairs[index][0] > pairs[prev][1]:
@@ -19,7 +19,7 @@ class Solution:
             # print("take: ", take)
             # print("skip: ", skip)
             # print(pairs[index])
-            memo[index][prev] = max(take, skip)
-            return memo[index][prev]
+            memo[index] = max(take, skip)
+            return memo[index]
 
         return solve(0, -1)
