@@ -99,6 +99,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HazemKhairat/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/HazemKhairat/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/HazemKhairat/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HazemKhairat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HazemKhairat/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -693,6 +694,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HazemKhairat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HazemKhairat/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/HazemKhairat/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -722,6 +724,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/HazemKhairat/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/HazemKhairat/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
@@ -818,4 +821,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/HazemKhairat/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
