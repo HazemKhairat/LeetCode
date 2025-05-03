@@ -202,6 +202,7 @@
 | [0197-rising-temperature](https://github.com/HazemKhairat/LeetCode/tree/master/0197-rising-temperature) |
 | [0585-investments-in-2016](https://github.com/HazemKhairat/LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/HazemKhairat/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1174-sales-analysis-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/HazemKhairat/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1278-product-price-at-a-given-date](https://github.com/HazemKhairat/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/HazemKhairat/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
