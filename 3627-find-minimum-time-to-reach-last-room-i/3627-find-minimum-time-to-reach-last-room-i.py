@@ -14,9 +14,9 @@ class Solution:
         while not pq.empty():
             curr = pq.get()
             t, r, c = curr[0], curr[1], curr[2]
-            if r == n - 1 and c == m - 1:
-                return t
-
+            # print(*vis, sep="\n")
+            # if r == n - 1 and c == m - 1:
+            #     return t 
             for dir in dirs:
                 newR, newC = r + dir[0], c + dir[1]
                 if newR < 0 or newC < 0 or newR == n or newC == m:
@@ -26,4 +26,4 @@ class Solution:
                     vis[newR][newC] = newT
                     pq.put((newT, newR, newC))
 
-        return -1
+        return vis[n - 1][m - 1]
