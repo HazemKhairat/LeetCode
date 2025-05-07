@@ -17,9 +17,6 @@ class Solution:
             if r == n - 1 and c == m - 1:
                 return t
 
-            if t > vis[r][c]:
-                continue
-
             for dir in dirs:
                 newR, newC = r + dir[0], c + dir[1]
                 if newR < 0 or newC < 0 or newR == n or newC == m:
