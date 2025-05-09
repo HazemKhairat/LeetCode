@@ -1,34 +1,39 @@
-import heapq
+from queue import PriorityQueue
+
 
 class Solution:
-    def minTimeToReach(self, moveTime):
-        n, m = len(moveTime), len(moveTime[0])
-        bestTime = [[float('inf')] * m for _ in range(n)]
-        directions = [(-1, 0), (0, 1), (1, 0), (0, -1)]
+    def minTimeToReach(self, mv: List[List[int]]) -> int:
+        n, m = len(mv), len(mv[0])
+        vis = [[float("inf")] * m for _ in range(n)]
+        dirs = [[0, 1], [0, -1], [1, 0], [-1, 0]]
+        pq = PriorityQueue()
 
-        # Priority queue: (time, x, y, nextMove)
-        pq = [(0, 0, 0, 0)]
+        pq.put((0, 0, 0, 0))  # time, row, col, next
 
-        while pq:
-            time, i, j, nextMove = heapq.heappop(pq)
-            if time >= bestTime[i][j]:
+        while not pq.empty():
+            t, r, c, nextMove = pq.get()
+
+            if t >= vis[r][c]:
                 continue
-            bestTime[i][j] = time
+            vis[r][c] = t
 
-            if i == n - 1 and j == m - 1:
-                return time
+            if r == n - 1 and c == m - 1:
+                return t
 
-            for dx, dy in directions:
-                x, y = i + dx, j + dy
-                if 0 <= x < n and 0 <= y < m:
-                    wait = moveTime[x][y]
-                    futureMove = 2 if nextMove == 1 else 1
-                    nextTime = wait + futureMove if wait > time else time + futureMove
+            for lr, lc in dirs:
+                nr, nc = lr + r, lc + c
 
-                    if i == 0 and j == 0 and wait <= time:
-                        nextTime = wait + futureMove
+                if nr < 0 or nr == n or nc < 0 or nc == m:
+                    continue
 
-                    if nextTime < bestTime[x][y]:
-                        heapq.heappush(pq, (nextTime, x, y, futureMove))
+                flag = 2 if nextMove == 1 else 1
 
-        return -1  # Should never reach
+                newT = max(t + flag, mv[nr][nc] + flag)
+
+                if r == 0 and c == 0 and mv[nr][nc] <= t:
+                    newT = flag + mv[nr][nc]
+
+                if newT < vis[nr][nc]:
+                    pq.put((newT, nr, nc, flag))
+
+        return -1
