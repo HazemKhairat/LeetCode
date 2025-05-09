@@ -1,15 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
-        memo = [float("inf")] * n
+        memo = {}
 
-        @cache
         def solve(index, isBuy, selled):
             if index == n:
                 return 0
-
-            # if memo[index] != float('inf'):
-            #     return memo[index]
+            key = (index, isBuy, selled)
+            if key in memo:
+                return memo[key]
             take = skip = sell = 0
 
             if selled:
@@ -21,7 +20,7 @@ class Solution:
                 sell = prices[index] + solve(index + 1, False, True)
                 skip = solve(index + 1, isBuy, selled)
 
-            # memo[index] = max(take, skip, sell)
-            return max(take, skip, sell)
+            memo[key] = max(take, skip, sell)
+            return memo[key]
 
         return solve(0, False, False)
