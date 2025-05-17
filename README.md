@@ -233,6 +233,7 @@
 | [1892-find-total-time-spent-by-each-employee](https://github.com/HazemKhairat/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/HazemKhairat/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/HazemKhairat/LeetCode/tree/master/1948-rearrange-products-table) |
+| [2024-calculate-special-bonus](https://github.com/HazemKhairat/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/HazemKhairat/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HazemKhairat/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3782-find-valid-emails](https://github.com/HazemKhairat/LeetCode/tree/master/3782-find-valid-emails) |
