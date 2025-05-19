@@ -237,6 +237,7 @@
 | [1942-primary-department-for-each-employee](https://github.com/HazemKhairat/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/HazemKhairat/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/HazemKhairat/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/HazemKhairat/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/HazemKhairat/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HazemKhairat/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3782-find-valid-emails](https://github.com/HazemKhairat/LeetCode/tree/master/3782-find-valid-emails) |
