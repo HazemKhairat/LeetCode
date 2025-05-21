@@ -1,5 +1,7 @@
-update salary 
-set sex = case 
-when sex = 'f' then 'm'
+# Write your MySQL queryupdate Salary 
+update salary
+set sex =
+case 
 when sex = 'm' then 'f'
-end
+when sex = 'f' then 'm'
+end 
