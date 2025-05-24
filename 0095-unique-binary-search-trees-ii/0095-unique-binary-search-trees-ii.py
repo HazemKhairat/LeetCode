@@ -8,12 +8,16 @@
 
 class Solution:
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
+        memo = {}
 
         def solve(start, end):
             res = []
             if start > end:
                 return [None]
 
+            if (start, end) in memo:
+                return memo[(start, end)]
+                
             for i in range(start, end + 1):
                 leftTree = solve(start, i - 1)
                 rightTree = solve(i + 1, end)
@@ -22,7 +26,7 @@ class Solution:
                     for right in rightTree:
                         root = TreeNode(i, left, right)
                         res.append(root)
-
+            memo[(start, end)] = res
             return res
 
         return solve(1, n)
