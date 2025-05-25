@@ -7,13 +7,9 @@ class Solution:
         for word, num in cnt.items():
             rev = word[::-1]
             if word[0] == word[1]:
-                # print("number: ", num)
-                res += (num - (num % 2)) * 2
-                # print("res: ",res)
+                res += num - (num % 2)
                 mid |= num % 2
             elif rev in cnt:
-                res += min(num, cnt[rev]) * 2
+                res += min(num, cnt[rev])
 
-        res += mid * 2
-
-        return res
+        return (res + mid) * 2
