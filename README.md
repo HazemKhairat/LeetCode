@@ -247,6 +247,7 @@
 | [2041-the-latest-login-in-2020](https://github.com/HazemKhairat/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/HazemKhairat/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HazemKhairat/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
+| [3530-odd-and-even-transactions](https://github.com/HazemKhairat/LeetCode/tree/master/3530-odd-and-even-transactions) |
 | [3782-find-valid-emails](https://github.com/HazemKhairat/LeetCode/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/HazemKhairat/LeetCode/tree/master/3816-dna-pattern-recognition) |
