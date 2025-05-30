@@ -1,52 +1,29 @@
 class Solution:
-
     def closestMeetingNode(self, edges: List[int], node1: int, node2: int) -> int:
-        n = len(edges)
-        graph = [[] for _ in range(n)]
+        def get_distances(start):
+            n = len(edges)
+            dis = [-1] * n
 
-        for i, edge in enumerate(edges):
-            graph[i].append(edge)
+            curr = start
+            steps = 0
 
-        arr1 = set()
-        arr2 = set()
-        arr1.add(node1)
-        arr2.add(node2)
-        dis1 = [float("inf")] * n
-        dis1[node1] = 0
-        dis2 = [float("inf")] * n
-        dis2[node2] = 0
-        vis = set()
-        vis.add(node1)
-        vis.add(-1)
+            while curr != -1 and dis[curr] == -1:
+                dis[curr] = steps
+                steps += 1
+                curr = edges[curr]
 
-        def dfs(node, dis, arr, l):
-            for nighbour in graph[node]:
-                if nighbour in vis:
-                    continue
-                vis.add(nighbour)
-                arr.add(nighbour)
-                dfs(nighbour, dis, arr, l + 1)
-                dis[nighbour] = l
+            return dis
 
-        dfs(node1, dis1, arr1, 1)
-        vis.clear()
-        vis.add(node2)
-        vis.add(-1)
-        dfs(node2, dis2, arr2, 1)
+        dis1 = get_distances(node1)
+        dis2 = get_distances(node2)
 
-        common = []
-        for item in arr1:
-            if item in arr2:
-                common.append(item)
-
-        print(common)
-
-        tmp = float("inf")
+        min_dis = float("inf")
         res = -1
-        for item in common:
-            maxi = max(dis1[item], dis2[item])
-            if maxi < tmp:
-                res = item
-                tmp = min(maxi, tmp)
+        for i in range(len(edges)):
+            if dis1[i] != -1 and dis2[i] != -1:
+                maxi = max(dis1[i], dis2[i])
+                if min_dis > maxi:
+                    min_dis = maxi
+                    res = i
 
         return res
