@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/HazemKhairat/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/HazemKhairat/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/HazemKhairat/LeetCode/tree/master/0221-maximal-square) |
@@ -479,6 +480,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/HazemKhairat/LeetCode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/HazemKhairat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HazemKhairat/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
