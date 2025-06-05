@@ -1,15 +1,9 @@
 class Solution:
     def smallestEquivalentString(self, s1: str, s2: str, baseStr: str) -> str:
         parent = {}
-        ch = "a"
-
-        while True:
-            parent[ch] = ch
-            if ch == "z":
-                break
-            ch = chr(ord(ch) + 1)
 
         def find(char):
+            parent.setdefault(char, char)
             if parent[char] != char:
                 parent[char] = find(parent[char])
             return parent[char]
