@@ -473,6 +473,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HazemKhairat/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -664,6 +665,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/HazemKhairat/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/HazemKhairat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/HazemKhairat/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/HazemKhairat/LeetCode/tree/master/0801-is-graph-bipartite) |
