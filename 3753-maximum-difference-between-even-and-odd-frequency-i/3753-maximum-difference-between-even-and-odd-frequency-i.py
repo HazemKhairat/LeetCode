@@ -7,7 +7,7 @@ class Solution:
 
         freq = Counter(s)
 
-        for ch, num in freq.items():
+        for num in freq.values():
             if num % 2 == 0:
                 minEven = min(minEven, num)
             else:
