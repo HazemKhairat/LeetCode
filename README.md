@@ -907,6 +907,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -948,6 +949,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HazemKhairat/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
