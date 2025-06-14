@@ -12,11 +12,7 @@ class Solution:
             if maxStr[i] == firstDigit:
                 maxStr[i] = "9"
 
-        for i in range(len(minStr)):
-            if minStr[i] != "0":
-                firstDigit = minStr[i]
-                break
-
+        firstDigit = minStr[0]
         for i in range(len(minStr)):
             if minStr[i] == firstDigit:
                 minStr[i] = "0"
