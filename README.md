@@ -440,6 +440,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HazemKhairat/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/HazemKhairat/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HazemKhairat/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
@@ -499,6 +500,7 @@
 | [0797-rabbits-in-forest](https://github.com/HazemKhairat/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HazemKhairat/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HazemKhairat/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HazemKhairat/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HazemKhairat/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
