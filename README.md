@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HazemKhairat/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -741,6 +742,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HazemKhairat/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/HazemKhairat/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -801,6 +803,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HazemKhairat/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/HazemKhairat/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/HazemKhairat/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
