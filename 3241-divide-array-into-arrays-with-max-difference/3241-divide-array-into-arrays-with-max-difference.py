@@ -4,15 +4,8 @@ class Solution:
         n = len(nums)
         res = []
         for i in range(0, n, 3):
-            a, b, c = (
-                abs(nums[i] - nums[i + 1]),
-                abs(nums[i + 1] - nums[i + 2]),
-                abs(nums[i] - nums[i + 2]),
-            )
-
-            if a <= k and b <= k and c <= k:
-                res.append([nums[i], nums[i + 1], nums[i + 2]])
-            else:
+            if nums[i + 2] - nums[i] > k:
                 return []
+            res.append([nums[i], nums[i + 1], nums[i + 2]])
 
         return res
