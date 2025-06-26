@@ -3,5 +3,4 @@ count(case when o.order_date between '2019-01-01' and '2019-12-30' then o.order_
 as orders_in_2019 
 from 
 users u left join orders o on u.user_id = o.buyer_id
-group by u.user_id
-order by u.user_id
+group by u.user_id, u.join_date
