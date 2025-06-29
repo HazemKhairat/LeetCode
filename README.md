@@ -76,6 +76,7 @@
 | [1524-string-matching-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HazemKhairat/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HazemKhairat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HazemKhairat/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/HazemKhairat/LeetCode/tree/master/1651-shuffle-string) |
@@ -773,6 +774,7 @@
 | [1306-minimum-absolute-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HazemKhairat/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -813,6 +815,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HazemKhairat/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -841,6 +844,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HazemKhairat/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/HazemKhairat/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
