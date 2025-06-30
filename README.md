@@ -24,6 +24,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/HazemKhairat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -364,6 +365,7 @@
 | [0141-linked-list-cycle](https://github.com/HazemKhairat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/HazemKhairat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/HazemKhairat/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/HazemKhairat/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -538,6 +540,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/HazemKhairat/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -769,6 +772,7 @@
 | [0088-merge-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
+| [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -858,6 +862,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HazemKhairat/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
