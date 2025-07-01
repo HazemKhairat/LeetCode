@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HazemKhairat/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/HazemKhairat/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HazemKhairat/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/HazemKhairat/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/HazemKhairat/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/HazemKhairat/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
@@ -1006,6 +1008,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/HazemKhairat/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/HazemKhairat/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/HazemKhairat/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/HazemKhairat/LeetCode/tree/master/0143-reorder-list) |
