@@ -176,6 +176,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HazemKhairat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HazemKhairat/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -278,6 +279,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HazemKhairat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HazemKhairat/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HazemKhairat/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HazemKhairat/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/HazemKhairat/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
@@ -568,6 +570,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HazemKhairat/LeetCode/tree/master/0143-reorder-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HazemKhairat/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
