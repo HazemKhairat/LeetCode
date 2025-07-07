@@ -976,6 +976,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/HazemKhairat/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/HazemKhairat/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
