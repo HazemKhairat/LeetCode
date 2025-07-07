@@ -466,6 +466,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HazemKhairat/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HazemKhairat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -1043,6 +1044,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/HazemKhairat/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HazemKhairat/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/HazemKhairat/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/HazemKhairat/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
