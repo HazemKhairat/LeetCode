@@ -193,6 +193,7 @@
 | [0085-maximal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/HazemKhairat/LeetCode/tree/master/0198-house-robber) |
@@ -291,6 +292,7 @@
 | [0032-longest-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HazemKhairat/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/HazemKhairat/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
