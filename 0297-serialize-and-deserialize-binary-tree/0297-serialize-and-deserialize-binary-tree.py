@@ -16,14 +16,13 @@ class Codec:
             vals.append(str(root.val))
             helper(root.left)
             helper(root.right)
+
         helper(root)
-        print(vals)
         
         return " ".join(vals)
         
 
     def deserialize(self, data):
-        print(data)
         data = iter(data.split(' '))
 
         def helper():
