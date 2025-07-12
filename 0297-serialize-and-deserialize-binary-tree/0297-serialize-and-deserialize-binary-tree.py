@@ -24,13 +24,10 @@ class Codec:
 
     def deserialize(self, data):
         print(data)
-        data = data.split(' ')
-        index = 0
+        data = iter(data.split(' '))
 
         def helper():
-            nonlocal index
-            val = data[index]
-            index += 1
+            val = next(data)
             if val == '*':
                 return None
             
