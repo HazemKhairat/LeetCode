@@ -52,6 +52,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HazemKhairat/LeetCode/tree/master/0971-shortest-bridge) |
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/HazemKhairat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/HazemKhairat/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/HazemKhairat/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -462,6 +463,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -728,6 +730,7 @@
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HazemKhairat/LeetCode/tree/master/0971-shortest-bridge) |
+| [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
@@ -1025,6 +1028,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0140-word-break-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HazemKhairat/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
