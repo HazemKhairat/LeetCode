@@ -1,27 +1,19 @@
 class MyCalendarThree:
 
     def __init__(self):
-        self.pq = []
-        self.cnt = Counter()
+        self.lst = []
         self.maxi = 0
 
 
     def book(self, startTime: int, endTime: int) -> int:
-        
-        if startTime not in self.cnt:
-            heapq.heappush(self.pq, startTime)
-        if endTime not in self.cnt: 
-            heapq.heappush(self.pq, endTime)
+        self.lst.append((startTime, 1))
+        self.lst.append((endTime, -1))
+        self.lst.sort()
 
-        self.cnt[startTime] += 1
-        self.cnt[endTime] -= 1
-
-        tmp = copy.deepcopy(self.pq)
         res = 0
-        while tmp:
-            time = heapq.heappop(tmp)
-            res += self.cnt[time]
-            self.maxi = max(res, self.maxi)
+        for l in self.lst:
+            res += l[1]
+            self.maxi = max(self.maxi, res)
         
         return self.maxi
 
