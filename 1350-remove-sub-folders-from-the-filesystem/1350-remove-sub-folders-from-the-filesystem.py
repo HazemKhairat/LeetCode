@@ -1,17 +1,10 @@
 class Solution:
     def removeSubfolders(self, folder: List[str]) -> List[str]:
-        folder.sort(key=len)
-        st = set()
-        for sub in folder:
-            tmp = ""
-            ok = True
-            for ch in sub:
-                tmp += ch
-                if ch == '/' and tmp[:-1] in st:
-                    ok = False
-                    break
-            if ok:
-                st.add(sub)
+        folder.sort()
+        res = [folder[0]]
+        for i in range(1, len(folder)):
+            last_folder = res[-1] + '/'
+            if not folder[i].startswith(last_folder):
+                res.append(folder[i])
 
-        res = list(st)
         return res
