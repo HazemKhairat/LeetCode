@@ -190,6 +190,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HazemKhairat/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -536,12 +537,14 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
@@ -637,6 +640,7 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HazemKhairat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Breadth-First Search
 |  |
 | ------- |
