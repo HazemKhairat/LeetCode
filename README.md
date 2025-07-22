@@ -191,6 +191,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HazemKhairat/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
@@ -958,6 +959,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HazemKhairat/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
