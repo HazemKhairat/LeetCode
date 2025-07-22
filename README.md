@@ -379,6 +379,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3939-process-string-with-special-operations-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
@@ -990,6 +991,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HazemKhairat/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/HazemKhairat/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3939-process-string-with-special-operations-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 ## Design
 |  |
