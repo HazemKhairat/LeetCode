@@ -7,11 +7,7 @@ class Solution:
             else:
                 stack.append(ch)
         
-        res = ""
-        while stack:
-            res = stack.pop() + res
-        
-        return res
+        return "".join(stack)
         
 
         
