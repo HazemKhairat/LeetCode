@@ -175,6 +175,7 @@
 | [3429-special-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HazemKhairat/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HazemKhairat/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -260,6 +261,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HazemKhairat/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -619,6 +621,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HazemKhairat/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/HazemKhairat/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -665,6 +668,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HazemKhairat/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/HazemKhairat/LeetCode/tree/master/3447-clear-digits) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Brainteaser
 |  |
@@ -1143,6 +1147,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/0085-maximal-rectangle) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Memoization
 |  |
 | ------- |
