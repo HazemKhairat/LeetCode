@@ -390,6 +390,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
+| [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
@@ -493,6 +494,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
+| [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
@@ -585,6 +587,7 @@
 | [0386-lexicographical-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HazemKhairat/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HazemKhairat/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1021,6 +1024,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
+| [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 ## Design
 |  |
