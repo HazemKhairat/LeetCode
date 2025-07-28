@@ -9,16 +9,20 @@ class Solution:
         for num in nums:
             maxi |= num
         
-        @cache
+        memo = {}
         def dfs(index, curr):
             if index == n:
                 return curr == maxi
+
+            if (index, curr) in memo:
+                return memo[(index, curr)] 
 
             take = skip = 0
             take += dfs(index + 1, (curr | nums[index]))
             skip += dfs(index + 1, curr)
 
-            return take + skip
+            memo[(index, curr)] = take + skip
+            return memo[(index, curr)] 
 
 
         return dfs(0, 0)
