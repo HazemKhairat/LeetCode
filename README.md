@@ -196,6 +196,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HazemKhairat/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
@@ -495,6 +496,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1151,6 +1153,7 @@
 | [2998-count-symmetric-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1179,6 +1182,7 @@
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
