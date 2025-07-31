@@ -275,6 +275,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Database
 |  |
 | ------- |
@@ -507,6 +508,7 @@
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -771,6 +773,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HazemKhairat/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HazemKhairat/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
