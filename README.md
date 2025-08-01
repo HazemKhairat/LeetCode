@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/HazemKhairat/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/HazemKhairat/LeetCode/tree/master/0135-candy) |
@@ -223,6 +224,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
