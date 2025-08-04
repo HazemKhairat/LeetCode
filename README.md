@@ -50,6 +50,7 @@
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/HazemKhairat/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HazemKhairat/LeetCode/tree/master/0971-shortest-bridge) |
@@ -453,6 +454,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/HazemKhairat/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/HazemKhairat/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -1023,6 +1025,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HazemKhairat/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/HazemKhairat/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HazemKhairat/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HazemKhairat/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
