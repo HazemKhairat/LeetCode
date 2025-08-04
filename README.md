@@ -31,6 +31,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
+| [0496-next-greater-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/HazemKhairat/LeetCode/tree/master/0605-can-place-flowers) |
@@ -447,6 +448,7 @@
 | [0141-linked-list-cycle](https://github.com/HazemKhairat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/HazemKhairat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/HazemKhairat/LeetCode/tree/master/0768-partition-labels) |
@@ -691,6 +693,7 @@
 | [0032-longest-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/HazemKhairat/LeetCode/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HazemKhairat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HazemKhairat/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1195,6 +1198,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
