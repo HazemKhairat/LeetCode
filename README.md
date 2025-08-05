@@ -406,6 +406,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/HazemKhairat/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HazemKhairat/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
@@ -1198,6 +1199,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/HazemKhairat/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
 |  |
 | ------- |
