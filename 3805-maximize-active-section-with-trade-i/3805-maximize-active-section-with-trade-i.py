@@ -2,7 +2,6 @@ class Solution:
     def maxActiveSectionsAfterTrade(self, s: str) -> int:
         n = len(s)
         i = 0
-        
         ones = sum(i == '1' for i in s)
         res = 0
         while i < n:
@@ -27,11 +26,9 @@ class Solution:
                     
 
                     maxi = (curr - left) + (right - curr)
-                print(ones)
-                print(maxi)
-                print(block)
                 res = max(res, ones + maxi - block)
             else:
                 i += 1
                     
         return res
+            
