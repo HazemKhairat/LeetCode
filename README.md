@@ -205,6 +205,7 @@
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/HazemKhairat/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -518,6 +519,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HazemKhairat/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -996,6 +998,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1086,6 +1089,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/HazemKhairat/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1093,6 +1097,7 @@
 | [0969-number-of-recent-calls](https://github.com/HazemKhairat/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/HazemKhairat/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -1106,6 +1111,7 @@
 | [0732-my-calendar-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0732-my-calendar-iii) |
 | [2434-design-a-number-container-system](https://github.com/HazemKhairat/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
