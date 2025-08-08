@@ -214,6 +214,7 @@
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/HazemKhairat/LeetCode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3936-split-array-by-prime-indices](https://github.com/HazemKhairat/LeetCode/tree/master/3936-split-array-by-prime-indices) |
 ## Dynamic Programming
 |  |
@@ -284,6 +285,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Database
 |  |
 | ------- |
@@ -852,6 +854,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Shortest Path
 |  |
 | ------- |
