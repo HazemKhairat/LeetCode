@@ -146,6 +146,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HazemKhairat/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/HazemKhairat/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/HazemKhairat/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/HazemKhairat/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HazemKhairat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HazemKhairat/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -435,6 +436,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HazemKhairat/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/HazemKhairat/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/HazemKhairat/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/HazemKhairat/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/HazemKhairat/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HazemKhairat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -548,6 +550,7 @@
 | [2478-longest-nice-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/HazemKhairat/LeetCode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/HazemKhairat/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/HazemKhairat/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HazemKhairat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HazemKhairat/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
