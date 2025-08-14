@@ -189,6 +189,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HazemKhairat/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -674,6 +675,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HazemKhairat/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/HazemKhairat/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -983,6 +985,7 @@
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/HazemKhairat/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HazemKhairat/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
