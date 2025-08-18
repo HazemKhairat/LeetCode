@@ -26,10 +26,10 @@ class Solution:
         for u, v in co:
             union(u, v)
 
-        pq_dict = defaultdict(list)
+        st_dict = defaultdict(SortedSet)
         for node in range(1, c + 1):
             parent = find(node)
-            heapq.heappush(pq_dict[parent], node)
+            st_dict[parent].add(node)
 
         for num, x in q:
             if num == 1:
@@ -37,10 +37,10 @@ class Solution:
                     ans.append(x)
                 else:
                     parent = find(x)
-                    tmp_pq = pq_dict[parent]
-                    while tmp_pq and tmp_pq[0] not in online:
-                        heapq.heappop(tmp_pq)
-                    ans.append(tmp_pq[0] if tmp_pq else -1)
+                    tmp_st = st_dict[parent]
+                    while tmp_st and tmp_st[0] not in online:
+                        tmp_st.discard(tmp_st[0])
+                    ans.append(tmp_st[0] if tmp_st else -1)
             elif x in online:
                 online.remove(x)
 
