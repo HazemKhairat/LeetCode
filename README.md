@@ -137,6 +137,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HazemKhairat/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HazemKhairat/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/HazemKhairat/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/HazemKhairat/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -599,6 +600,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HazemKhairat/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/HazemKhairat/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
