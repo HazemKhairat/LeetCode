@@ -1,34 +1,32 @@
 class Solution:
     def processStr(self, s: str, k: int) -> str:
         l = 0
-
         for ch in s:
-            if ch == '*':
+            if ch == "*":
                 l = max(0, l - 1)
-            elif ch == '#':
+            elif ch == "#":
                 l *= 2
-            elif ch == '%':
+            elif ch == "%":
                 continue
             else:
                 l += 1
-            
+
         if k >= l:
-            return '.'
+            return "."
 
         for i in range(len(s) - 1, -1, -1):
             ch = s[i]
-            if ch == '*':
+            if ch == "*":
                 l += 1
-            elif ch == '#':
+            elif ch == "#":
                 l //= 2
                 if k >= l:
-                    k -= l
-            elif ch == '%':
-                k = l - 1 - k
+                    k = k - l
+            elif ch == "%":
+                k = l - k - 1
             else:
                 l -= 1
-                if k == l:
+                if l == k:
                     return ch
-        
-        return '.'
-        
+
+        return "."
