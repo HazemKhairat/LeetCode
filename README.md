@@ -82,6 +82,7 @@
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HazemKhairat/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HazemKhairat/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1428-jump-game-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -272,6 +273,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HazemKhairat/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HazemKhairat/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HazemKhairat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -863,6 +865,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/HazemKhairat/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
