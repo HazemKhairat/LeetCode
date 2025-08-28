@@ -1,42 +1,16 @@
 class Solution:
-    def sortMatrix(self, g: List[List[int]]) -> List[List[int]]:
-        n = len(g)
+    def sortMatrix(self, grid: List[List[int]]) -> List[List[int]]:  
+        n = len(grid)
         for i in range(n):
-            r = i
-            c = 0
-            arr = []
-            while r < n:
-                arr.append(g[r][c])
-                r += 1
-                c += 1
-            r = i
-            c = 0
+            tmp = [grid[i + j][j] for j in range(n - i)]
+            tmp.sort(reverse=True)
+            for j in range(n - i):
+                grid[i + j][j] = tmp[j]
+        
+        for j in range(1, n):
+            tmp = [grid[i][j + i] for i in range(n - j)]
+            tmp.sort()
+            for i in range(n - j):
+                grid[i][j + i] = tmp[i]
 
-            arr.sort()
-            
-            while r < n:
-                g[r][c] = arr[-1]
-                arr.pop()
-                r += 1
-                c += 1
-
-
-        for i in range(1, n):
-            r = 0
-            c = i
-            arr = []
-            while c < n:
-                arr.append(g[r][c])
-                r += 1
-                c += 1
-            r = 0
-            c = i
-            arr.sort(reverse=True)
-            while c < n:
-                g[r][c] = arr[-1]
-                arr.pop()
-                r += 1
-                c += 1
-
-        return g
-            
+        return grid
