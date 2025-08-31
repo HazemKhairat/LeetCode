@@ -2,42 +2,41 @@ class Solution:
     def solveSudoku(self, board: List[List[str]]) -> None:
         rows = [set() for i in range(9)]
         cols = [set() for i in range(9)]
-        boxes = [set() for i in range(9)]
+        blocks = [set() for i in range(9)]
 
         for r in range(9):
             for c in range(9):
-                val = board[r][c]
-                if val == ".":
+                if board[r][c] == ".":
                     continue
-                rows[r].add(val)
-                cols[c].add(val)
-                boxes[(r // 3) * 3 + c // 3].add(val)
+                rows[r].add(board[r][c])
+                cols[c].add(board[r][c])
+                blocks[(r // 3) * 3 + (c // 3)].add(board[r][c])
 
-        def solve(r, c):
-            if r >= 9:
+        def backtrack(r, c):
+            if r == 9:
                 return True
-            if c >= 9:
-                return solve(r + 1, 0)
+            if c == 9:
+                return backtrack(r + 1, 0)
             if board[r][c] != ".":
-                return solve(r, c + 1)
+                return backtrack(r, c + 1)
 
             for k in range(1, 10):
                 ch = str(k)
-                box_idx = (r // 3) * 3 + c // 3
-                if ch in rows[r] or ch in cols[c] or ch in boxes[box_idx]:
+                idx = (r // 3) * 3 + (c // 3)
+                if ch in rows[r] or ch in cols[c] or ch in blocks[idx]:
                     continue
                 board[r][c] = ch
                 rows[r].add(ch)
                 cols[c].add(ch)
-                boxes[box_idx].add(ch)
-                if solve(r, c + 1):
+                blocks[idx].add(ch)
+                if backtrack(r, c + 1):
                     return True
                 board[r][c] = "."
                 rows[r].remove(ch)
                 cols[c].remove(ch)
-                boxes[(r // 3) * 3 + c // 3].remove(ch)
+                blocks[idx].remove(ch)
 
             return False
 
-        solve(0, 0)
+        backtrack(0, 0)
         return board
