@@ -180,6 +180,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HazemKhairat/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -619,6 +620,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HazemKhairat/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1013,6 +1015,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/HazemKhairat/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1270,6 +1273,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -1336,4 +1340,8 @@
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
