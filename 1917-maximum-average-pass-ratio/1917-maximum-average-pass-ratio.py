@@ -1,22 +1,24 @@
 class Solution:
-    def maxAverageRatio(self, classes: List[List[int]], eS: int) -> float:
-        
+    def maxAverageRatio(self, classes: List[List[int]], exS: int) -> float:
         pq = []
         for p, t in classes:
-            gain = (p + 1) / (t + 1) - (p / t)
-            heapq.heappush(pq, [-gain, p, t])
+            ratio = p / t
+            new_ratio = (p + 1) / (t + 1)
+            possible_gain = new_ratio - ratio
+            heapq.heappush(pq, [-possible_gain, p, t])
+
         
-        while eS:
+
+        while exS:
             gain, p, t = heapq.heappop(pq)
-            p += 1
-            t += 1
-            gain = (p + 1) / (t + 1) - (p / t)
-            heapq.heappush(pq, [-gain, p, t])
-            eS -= 1
+            p += 1 # 3
+            t += 1 # 4
+            new_gain = ((p + 1) / (t + 1)) - (p / t) # (4 / 5 ) - (3 / 4)
+            heapq.heappush(pq, [-new_gain, p, t])
+            exS -= 1
 
         ans = 0
         while pq:
-            gain,p,t = heapq.heappop(pq)
-            ans += p/t
-
+            _, p, t = heapq.heappop(pq)
+            ans += p / t
         return ans / len(classes)
