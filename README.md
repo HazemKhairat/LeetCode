@@ -189,6 +189,7 @@
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/HazemKhairat/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3429-special-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HazemKhairat/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HazemKhairat/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -459,6 +460,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/HazemKhairat/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/HazemKhairat/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HazemKhairat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/HazemKhairat/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -631,6 +633,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HazemKhairat/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -645,6 +648,7 @@
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
@@ -1139,6 +1143,7 @@
 | [2479-meeting-rooms-iii](https://github.com/HazemKhairat/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HazemKhairat/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/HazemKhairat/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
