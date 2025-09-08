@@ -6,10 +6,10 @@ class Solution:
 
         for i in range(n):
             while stack and nums[stack[-1]] < nums[i]:
-                mid = stack.pop()
+                stack.pop()
                 if stack:
                     ans += 1
-            
+
             stack.append(i)
-        
+
         return ans
