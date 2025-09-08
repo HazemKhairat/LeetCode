@@ -8,10 +8,7 @@ class Solution:
             while stack and nums[stack[-1]] < nums[i]:
                 mid = stack.pop()
                 if stack:
-                    l = stack[-1]
-                    r = i
-                    if min(nums[l], nums[r]) > nums[mid]:
-                        ans += 1
+                    ans += 1
             
             stack.append(i)
         
