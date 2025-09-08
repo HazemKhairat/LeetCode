@@ -1,6 +1,5 @@
 class Solution:
     def getNoZeroIntegers(self, n: int) -> List[int]:
-        a, b = 1, n - 1
 
         def valid(a, b):
             while a:
@@ -12,10 +11,10 @@ class Solution:
                     return False
                 b //= 10
             return True
-        while True:
+
+        for a in range(1, n):
+            b = n - a
             if valid(a, b):
                 return [a, b]
-            a += 1
-            b -= 1
         
-        return [a, b]
+        return []
