@@ -428,6 +428,7 @@
 | [3447-clear-digits](https://github.com/HazemKhairat/LeetCode/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HazemKhairat/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/HazemKhairat/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/HazemKhairat/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -642,6 +643,7 @@
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3462-vowels-game-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -662,6 +664,7 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
+| [3462-vowels-game-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -779,6 +782,7 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HazemKhairat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Breadth-First Search
 |  |
