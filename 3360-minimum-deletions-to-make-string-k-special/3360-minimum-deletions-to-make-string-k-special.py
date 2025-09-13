@@ -1,15 +1,16 @@
 class Solution:
     def minimumDeletions(self, word: str, k: int) -> int:
-        cnt = defaultdict(int)
-        for c in word:
-            cnt[c] += 1
-        res = len(word)
-        for a in cnt.values():
-            deleted = 0
-            for b in cnt.values():
-                if a > b:
-                    deleted += b
-                elif b > a + k:
-                    deleted += b - (a + k)
-            res = min(res, deleted)
-        return res
+        cnt = Counter(word)
+        ans = inf
+        maxi = max(cnt.values())
+
+        for i in range(1, maxi + 1):
+            tmp = 0
+            for freq in cnt.values():
+                if freq < i:
+                    tmp += freq
+                elif freq > (i + k):
+                    tmp += freq - (i + k)
+            ans = min(ans, tmp)
+
+        return ans
