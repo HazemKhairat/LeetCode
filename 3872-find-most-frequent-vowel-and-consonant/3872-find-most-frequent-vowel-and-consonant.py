@@ -1,15 +1,15 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        v = Counter()
-        c = Counter()
+        vols = Counter()
+        cons = Counter()
 
-        for ch in s:
+        for ch in s: 
             if ch in "aeiou":
-                v[ch] += 1
+                vols[ch] += 1
             else:
-                c[ch] += 1
-        print(c)
-        print(v)
-        a = (max(v.values()) if v else 0)
-        b = (max(c.values()) if c else 0)
-        return a + b
+                cons[ch] += 1
+                
+        f =   max(vols.values()) if vols else 0
+        s = max(cons.values()) if cons else 0
+
+        return f + s
