@@ -387,6 +387,7 @@
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/HazemKhairat/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/HazemKhairat/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HazemKhairat/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HazemKhairat/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HazemKhairat/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -505,6 +506,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HazemKhairat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/HazemKhairat/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1364-tuple-with-same-product](https://github.com/HazemKhairat/LeetCode/tree/master/1364-tuple-with-same-product) |
