@@ -1,4 +1,9 @@
 class TaskManager:
+    # map task id to it's user
+    # add [priority, taskId] to pq
+    # add taskId -> priority to map
+    # when excute if taskId in map pop and return userid
+    # else pop 
     def __init__(self, tasks: List[List[int]]):
         self.task_user = defaultdict()
         self.task_prio = defaultdict()
@@ -26,6 +31,9 @@ class TaskManager:
 
     def execTop(self) -> int:
         pq = self.pq
+        # print("pq is " ,pq)
+        # print("task_user : ", self.task_user)
+        # print("task_priority: ", self.task_prio)
         
         while pq :
             p, t = heapq.heappop(pq) 
