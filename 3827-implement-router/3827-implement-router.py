@@ -1,60 +1,44 @@
 class Router:
-
+    
     def __init__(self, ml: int):
+        self.rt = deque()
+        self.st = SortedSet() 
+        self.dic = defaultdict(deque)
         self.ml = ml
-        self.li = deque()
-        self.s = set()
-        self.h = defaultdict(deque)
 
     def addPacket(self, s: int, d: int, t: int) -> bool:
+        rt, st, dic, ml = self.rt, self.st, self.dic, self.ml
         packet = (s, d, t)
-        if packet in self.s:
+        if packet in st:
             return False
 
-        if len(self.li) == self.ml:
-            tmp = self.li.popleft()
-            self.s.remove(tmp)
-            self.h[tmp[1]].popleft()
+        if len(rt) == ml:
+            tmp = rt.popleft()
+            st.remove(tmp)
+            dic[tmp[1]].popleft()
+        
+        rt.append(packet)
+        st.add(packet)
+        dic[d].append(packet[2])
 
-        self.s.add(packet)
-        self.li.append(packet)
-        self.h[d].append(t) 
         return True
 
     def forwardPacket(self) -> List[int]:
-        arr = []
-        if self.li:
-            arr = self.li.popleft()
-            self.s.remove(arr)
-            self.h[arr[1]].popleft()
-        return list(arr)
+        rt = self.rt
+        st = self.st
+        dic = self.dic
+        if rt:
+            s, d, t = rt.popleft()
+            st.remove((s, d, t))
+            dic[d].popleft()
+            return [s, d, t]
+        return []
+        
 
-    def getCount(self, d: int, st: int, e: int) -> int:
-        li = self.h[d]
-        # print(li)
-        l, r = 0, len(li) - 1
-
-        while l <= r:
-            mid = (l + r) // 2
-            if li[mid] >= st:
-                r = mid - 1
-            else:
-                l = mid + 1
-        leftMost = l
-        # print(l)
-        l, r = 0, len(li) - 1
-
-        while l <= r:
-            mid = (l + r) // 2
-            if li[mid] <= e:
-                l = mid + 1
-            else:
-                r = mid - 1
-        rightMost = r
-
-        print(r)
-        return rightMost - leftMost + 1
-
+    def getCount(self, d: int, s: int, e: int) -> int:
+        l = bisect_left(self.dic[d], s)
+        r = bisect_right(self.dic[d], e)
+        return r - l
 
 # Your Router object will be instantiated and called as such:
 # obj = Router(memoryLimit)
