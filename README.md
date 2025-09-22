@@ -181,6 +181,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -546,6 +547,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HazemKhairat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -756,6 +758,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HazemKhairat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/HazemKhairat/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
