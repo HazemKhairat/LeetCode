@@ -654,6 +654,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/HazemKhairat/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HazemKhairat/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
@@ -1335,6 +1336,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/HazemKhairat/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
