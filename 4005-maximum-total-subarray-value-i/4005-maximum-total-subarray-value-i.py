@@ -1,5 +1,4 @@
 class Solution:
     def maxTotalValue(self, nums: List[int], k: int) -> int:
-        mini = min(nums)
-        maxi = max(nums)
+        mini, maxi = min(nums), max(nums)
         return (maxi - mini) * k
