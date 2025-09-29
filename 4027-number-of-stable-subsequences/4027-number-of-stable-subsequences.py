@@ -1,21 +1,15 @@
-from typing import List
-
 class Solution:
     def countStableSubsequences(self, nums: List[int]) -> int:
-        MOD = 10**9 + 7
+        odd = odd_odd = even = even_even = 0
+        mod = 10**9 + 7
 
-        odd = 0         
-        odd_odd = 0        
-        even = 0      
-        even_even = 0      
+        for num in nums:
+            if num % 2 == 0:
+                even_even += even % mod
+                even += (1 + odd + odd_odd) % mod
+            else:
+                odd_odd += odd % mod
+                odd += (1 + even + even_even) % mod
+        
+        return (even + even_even + odd + odd_odd) % mod
 
-        for x in nums:
-            if x % 2 == 1:                        
-                odd_odd += odd % MOD
-                odd += (even + even_even + 1) % MOD
-            else:            
-                even_even += even % MOD
-                even += (odd + odd_odd + 1) % MOD
-
-        total = (odd + odd_odd + even + even_even) % MOD
-        return total
