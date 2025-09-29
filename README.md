@@ -247,6 +247,7 @@
 | [3936-split-array-by-prime-indices](https://github.com/HazemKhairat/LeetCode/tree/master/3936-split-array-by-prime-indices) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/HazemKhairat/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
+| [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -320,6 +321,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
+| [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
 ## Database
 |  |
 | ------- |
