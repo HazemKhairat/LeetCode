@@ -246,6 +246,7 @@
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [3928-split-and-merge-array-transformation](https://github.com/HazemKhairat/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
 | [3936-split-array-by-prime-indices](https://github.com/HazemKhairat/LeetCode/tree/master/3936-split-array-by-prime-indices) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/HazemKhairat/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
@@ -587,6 +588,7 @@
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3928-split-and-merge-array-transformation](https://github.com/HazemKhairat/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -790,6 +792,7 @@
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HazemKhairat/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Stack
 |  |
 | ------- |
@@ -1189,6 +1192,7 @@
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Simulation
 |  |
 | ------- |
@@ -1213,6 +1217,7 @@
 | [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Design
 |  |
 | ------- |
