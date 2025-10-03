@@ -248,6 +248,7 @@
 | [3936-split-array-by-prime-indices](https://github.com/HazemKhairat/LeetCode/tree/master/3936-split-array-by-prime-indices) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4000-count-bowl-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/4000-count-bowl-subarrays) |
 | [4005-maximum-total-subarray-value-i](https://github.com/HazemKhairat/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
 ## Dynamic Programming
@@ -819,6 +820,7 @@
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [4000-count-bowl-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/4000-count-bowl-subarrays) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1382,6 +1384,7 @@
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HazemKhairat/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4000-count-bowl-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/4000-count-bowl-subarrays) |
 ## Memoization
 |  |
 | ------- |
