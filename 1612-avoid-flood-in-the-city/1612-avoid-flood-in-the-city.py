@@ -13,7 +13,7 @@ class Solution:
 
                 if num in cnt:
                     last_idx = cnt[num]
-                    idx = st.bisect_right(last_idx)
+                    idx = st.bisect_left(last_idx)
                     if idx == len(st):
                         return []
                     ans[st[idx]] = num
