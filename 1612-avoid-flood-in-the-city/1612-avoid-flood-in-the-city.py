@@ -1,21 +1,24 @@
 class Solution:
     def avoidFlood(self, r: List[int]) -> List[int]:
-        lastOcurr = Counter()
-        s = SortedSet()
         n = len(r)
         ans = [1] * n
+        cnt = Counter()  # last index of lake rains
+        st = SortedSet()  # Sorted Sunny Days
 
-        for i in range(n):
-            if r[i] == 0:
-                s.add(i)
+        for i, num in enumerate(r):
+            if num == 0:
+                st.add(i)
             else:
                 ans[i] = -1
-                if r[i] in lastOcurr:
-                    idx = s.bisect(lastOcurr[r[i]])
-                    if idx == len(s):
+
+                if num in cnt:
+                    last_idx = cnt[num]
+                    idx = st.bisect_right(last_idx)
+                    if idx == len(st):
                         return []
-                    ans[s[idx]] = r[i]
-                    s.discard(s[idx])
-                lastOcurr[r[i]] = i
+                    ans[st[idx]] = num
+                    st.discard(st[idx])
+
+                cnt[num] = i
 
         return ans
