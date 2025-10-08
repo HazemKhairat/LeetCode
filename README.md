@@ -255,6 +255,7 @@
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4000-count-bowl-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/4000-count-bowl-subarrays) |
 | [4005-maximum-total-subarray-value-i](https://github.com/HazemKhairat/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
+| [4015-split-array-with-minimum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/4015-split-array-with-minimum-difference) |
 | [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
 ## Dynamic Programming
 |  |
@@ -495,6 +496,7 @@
 | [3639-zero-array-transformation-i](https://github.com/HazemKhairat/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [4015-split-array-with-minimum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/4015-split-array-with-minimum-difference) |
 ## Hash Table
 |  |
 | ------- |
