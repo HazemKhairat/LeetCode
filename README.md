@@ -257,6 +257,7 @@
 | [4005-maximum-total-subarray-value-i](https://github.com/HazemKhairat/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/4015-split-array-with-minimum-difference) |
 | [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
+| [4041-climbing-stairs-ii](https://github.com/HazemKhairat/LeetCode/tree/master/4041-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 | [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
+| [4041-climbing-stairs-ii](https://github.com/HazemKhairat/LeetCode/tree/master/4041-climbing-stairs-ii) |
 ## Database
 |  |
 | ------- |
