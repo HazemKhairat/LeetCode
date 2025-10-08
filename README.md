@@ -469,6 +469,7 @@
 | [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/HazemKhairat/LeetCode/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -497,6 +498,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [4015-split-array-with-minimum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/4015-split-array-with-minimum-difference) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/HazemKhairat/LeetCode/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Hash Table
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3928-split-and-merge-array-transformation](https://github.com/HazemKhairat/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/HazemKhairat/LeetCode/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1228,6 +1231,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/HazemKhairat/LeetCode/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Simulation
 |  |
 | ------- |
