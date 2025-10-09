@@ -11,12 +11,11 @@ class Solution:
             if s[j : j + len(b)] == b:
                 B.add(j)
 
-        ans = set()
+        ans = []
 
         for i in A:
             idx = B.bisect_left((i - k))
             if idx != len(B) and B[idx] <= i + k:
-                ans.add(i)
-
-        res = sorted(ans)
-        return res
+                ans.append(i)
+        
+        return ans
