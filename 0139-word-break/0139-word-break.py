@@ -1,13 +1,21 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        wordSet = set(wordDict)
-        dp = [False] * (len(s) + 1)
-        dp[0] = True  # empty string can be always segmented
+        
+        n = len(s)
 
-        for i in range(1, len(s) + 1):
-            for j in range(i):
-                if dp[j] and s[j:i] in wordSet:
-                    dp[i] = True
-                    break
+        @cache
+        def solve(tmp, idx):
+            if idx == n:
+                return False
+            ch = s[idx:idx+1]
+            newWrod = False
+            if (tmp + ch) in wordDict:
+                if idx == n - 1: return True
+                newWrod = solve("", idx + 1)
+            ok = solve(tmp + ch, idx + 1)
 
-        return dp[-1]
+            return ok or newWrod
+            
+            
+        
+        return solve("", 0)
