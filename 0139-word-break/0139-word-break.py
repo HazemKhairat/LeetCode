@@ -1,19 +1,20 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+
         n = len(s)
-        word_set = set(wordDict)
+        wordDict = set(wordDict)
 
         @cache
-        def solve(tmp, idx):
+        def dp(idx, word):
             if idx == n:
-                return tmp == ""
+                return word == ""
 
             ch = s[idx]
-            newWord = False
-            if (tmp + ch) in word_set:
-                newWord = solve("", idx + 1)
-            ok = solve(tmp + ch, idx + 1)
+            partition = continu = False
+            if (word + ch) in wordDict:
+                partition = dp(idx + 1, "")
+            continu = dp(idx + 1, word + ch)
 
-            return ok or newWord
+            return partition or continu
 
-        return solve("", 0)
+        return dp(0, "")
