@@ -1,19 +1,17 @@
 class Solution:
     def reverseOnlyLetters(self, s: str) -> str:
-        res = ""
-        tmp = []
-        ans = [s[i] if not s[i].isalpha() else "" for i in range(len(s))]
-        
-        for ch in s:
-            if ch.isalpha():
-                tmp.append(ch)
-        
-        
-        i = 0
-        for j in range(len(ans) - 1, -1, -1):
-            if not ans[j]:
-                ans[j] = tmp[i] 
+        s = list(s)
+        i , j = 0, len(s) - 1
+
+        while i < j:
+            while i < len(s) and not s[i].isalpha():
                 i += 1
-                       
-        res = ''.join(ans)
-        return res
+            while j >= 0 and not s[j].isalpha():
+                j -= 1
+    
+            if i < j:
+                s[i], s[j] = s[j], s[i]
+            i += 1
+            j -= 1
+        
+        return ''.join(s)
