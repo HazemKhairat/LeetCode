@@ -128,6 +128,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/HazemKhairat/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HazemKhairat/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/HazemKhairat/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -439,6 +440,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HazemKhairat/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/HazemKhairat/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HazemKhairat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HazemKhairat/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1258,6 +1260,7 @@
 | [0498-diagonal-traverse](https://github.com/HazemKhairat/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/HazemKhairat/LeetCode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HazemKhairat/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/HazemKhairat/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HazemKhairat/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HazemKhairat/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
