@@ -227,6 +227,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HazemKhairat/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/HazemKhairat/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -510,6 +511,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HazemKhairat/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/HazemKhairat/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -1149,6 +1151,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/HazemKhairat/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HazemKhairat/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1190,6 +1193,7 @@
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HazemKhairat/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
@@ -1258,6 +1262,7 @@
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/HazemKhairat/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/HazemKhairat/LeetCode/tree/master/3953-minimum-discards-to-balance-inventory) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/HazemKhairat/LeetCode/tree/master/4021-distinct-points-reachable-after-substring-removal) |
