@@ -10,7 +10,7 @@ class Solution:
 
         res = 0
         for i in range(maxi):
-            left = max(0, i - k)
+            left = max(1, i - k)
             right = min(maxi, i + k)
             total = cnt[right] - (cnt[left - 1] if left else 0)
             freq = cnt[i] - (cnt[i - 1] if i else 0)
