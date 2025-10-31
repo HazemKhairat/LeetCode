@@ -27,6 +27,7 @@
 | [0221-maximal-square](https://github.com/HazemKhairat/LeetCode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/HazemKhairat/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HazemKhairat/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -1323,6 +1324,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HazemKhairat/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/HazemKhairat/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HazemKhairat/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0732-my-calendar-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0969-number-of-recent-calls](https://github.com/HazemKhairat/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -1433,6 +1435,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HazemKhairat/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0307-range-sum-query-mutable](https://github.com/HazemKhairat/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0654-maximum-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Number Theory
@@ -1511,10 +1514,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HazemKhairat/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/HazemKhairat/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0732-my-calendar-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0732-my-calendar-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
