@@ -3,20 +3,20 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
-    def modifiedList(
-        self, nums: List[int], head: Optional[ListNode]
-    ) -> Optional[ListNode]:
+    def modifiedList(self, nums: List[int], head: Optional[ListNode]):
         st = set(nums)
         while head.val in st:
             head = head.next
 
-        prev = curr = head
+        prev = head
+        curr = head.next
         while curr:
+            if curr.val in st:
+                prev.next = curr.next
+            else:
+                prev = curr
             curr = curr.next
-            while curr and curr.val in st:
-                curr = curr.next
-            prev.next = curr
-            prev = curr
 
         return head
