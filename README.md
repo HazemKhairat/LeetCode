@@ -334,6 +334,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HazemKhairat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HazemKhairat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HazemKhairat/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1761-count-sorted-vowel-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -653,6 +654,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HazemKhairat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1510,6 +1512,7 @@
 | [0140-word-break-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HazemKhairat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 ## Recursion
