@@ -406,6 +406,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HazemKhairat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HazemKhairat/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/HazemKhairat/LeetCode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HazemKhairat/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HazemKhairat/LeetCode/tree/master/0038-count-and-say) |
@@ -537,6 +538,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HazemKhairat/LeetCode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HazemKhairat/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/HazemKhairat/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HazemKhairat/LeetCode/tree/master/0037-sudoku-solver) |
@@ -679,6 +681,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HazemKhairat/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/HazemKhairat/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
