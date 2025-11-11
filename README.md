@@ -34,6 +34,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HazemKhairat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
+| [0474-ones-and-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/HazemKhairat/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
@@ -304,6 +305,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HazemKhairat/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HazemKhairat/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -422,6 +424,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/HazemKhairat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/HazemKhairat/LeetCode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0664-strange-printer](https://github.com/HazemKhairat/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
