@@ -10,16 +10,20 @@ class Solution:
                     zeros += 1
             arr.append((zeros, ones))
 
-        @cache
+        memo = {}
         def solve(m, n, idx):
             if m < 0 or n < 0:
                 return -inf
             if idx == len(arr):
                 return 0
+            if (m, n, idx) in memo:
+                return memo[(m, n, idx)]
+
             take = skip = 0
 
             take = 1 + solve(m - arr[idx][0], n - arr[idx][1], idx + 1)
             skip = solve(m, n, idx + 1)
+            memo[(m, n, idx)] = max(take, skip)
             return max(take, skip)
 
         return solve(m, n, 0)
