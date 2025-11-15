@@ -1,53 +1,50 @@
-class SegmentTree:
+import math
+
+class SqrtDecomposition:
     def __init__(self, nums):
         self.n = len(nums)
-        self.tree = [0] * 4 * self.n
-        self.buildTree(nums, 0, self.n - 1, 0)
+        self.nums = nums
+        self.block_size = int(math.sqrt(self.n))
+        blocks_nums = (self.n + self.block_size - 1) // self.block_size
+        self.blocks = [0] * blocks_nums
+        for i in range(self.n):
+            block_index = i // self.block_size
+            self.blocks[block_index] += nums[i]
 
-    def buildTree(self, nums, left, right, index):
-        if left == right:
-            self.tree[index] = nums[left]
-            return
-        mid = (left + right) // 2
-        self.buildTree(nums, left, mid, 2 * index + 1)
-        self.buildTree(nums, mid + 1, right, 2 * index + 2)
-        self.tree[index] = self.tree[2 * index + 1] + self.tree[2 * index + 2]
+    def query(self, l, r):
+        ans = 0
+        while l % self.block_size != 0 and l <= r:
+            ans += self.nums[l]
+            l += 1
 
-    def sumRange(self, left, right, queryL, queryR, index):
-        if queryL > right or queryR < left:
-            return 0
+        while l + self.block_size - 1 <= r:
+            block_index = l // self.block_size
+            ans += self.blocks[block_index]
+            l += self.block_size
 
-        if queryL <= left and right <= queryR:
-            return self.tree[index]
+        while l <= r:
+            ans += self.nums[l]
+            l += 1
 
-        mid = (left + right) // 2
-        qleft = self.sumRange(left, mid, queryL, queryR, 2 * index + 1)
-        qright = self.sumRange(mid + 1, right, queryL, queryR, 2 * index + 2)
-        return qleft + qright
+        return ans
 
-    def update(self, left, right, index, pos, val):
-        if left == right:
-            self.tree[index] = val
-            return
-        mid = (left + right) // 2
-        if pos <= mid:
-            self.update(left, mid, 2 * index + 1, pos, val)
-        else:
-            self.update(mid + 1, right, 2 * index + 2, pos, val)
-        self.tree[index] = self.tree[2 * index + 1] + self.tree[2 * index + 2]
+    def update(self, idx, val):
+        block_index = idx // self.block_size
+        diff = val - self.nums[idx]
+        self.nums[idx] = val
+        self.blocks[block_index] += diff
 
 
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self.n = len(nums)
-        self.tree = SegmentTree(nums)
+        self.sq_d = SqrtDecomposition(nums)
 
     def update(self, index: int, val: int) -> None:
-        self.tree.update(0, self.n - 1, 0, index, val)
+        self.sq_d.update(index, val)
 
     def sumRange(self, left: int, right: int) -> int:
-        return self.tree.sumRange(0, self.n - 1, left, right, 0)
+        return self.sq_d.query(left, right)
 
 
 # Your NumArray object will be instantiated and called as such:
