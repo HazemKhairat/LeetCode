@@ -1,32 +1,35 @@
 class Solution:
     def smallestEquivalentString(self, s1: str, s2: str, baseStr: str) -> str:
         parent = {}
+        n = len(s1)
+        for i in range(n):
+            parent[s1[i]] = s1[i]
+            parent[s2[i]] = s2[i]
 
-        def find(char):
-            parent.setdefault(char, char)
-            if parent[char] != char:
-                parent[char] = find(parent[char])
-            return parent[char]
+        def find(ch):
+            if parent[ch] == ch:
+                return ch
+            parent[ch] = find(parent[ch])
+            return parent[ch]
 
-        def union(str1, str2):
-            a = find(str1)
-            b = find(str2)
-
-            if a == b:
+        def union(ch1, ch2):
+            p1, p2 = find(ch1), find(ch2)
+            if p1 == p2:
                 return
 
-            if a < b:
-                parent[b] = a
-            elif b < a:
-                parent[a] = b
+            if p1 < p2:
+                parent[p2] = p1
             else:
-                parent[a] = b
+                parent[p1] = p2
 
-        for i in range(len(s1)):
+        for i in range(n):
             union(s1[i], s2[i])
 
-        res = ""
-
+        ans = ""
         for ch in baseStr:
-            res += find(ch)
-        return res
+            if ch in parent:
+                ans += find(ch)
+            else:
+                ans += ch
+
+        return ans
