@@ -35,6 +35,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/HazemKhairat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/HazemKhairat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/HazemKhairat/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/0542-01-matrix) |
