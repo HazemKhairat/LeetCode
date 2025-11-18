@@ -50,6 +50,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HazemKhairat/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/HazemKhairat/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0740-delete-and-earn](https://github.com/HazemKhairat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HazemKhairat/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/HazemKhairat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
