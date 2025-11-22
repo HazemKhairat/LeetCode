@@ -209,6 +209,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/HazemKhairat/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HazemKhairat/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/HazemKhairat/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -759,6 +760,7 @@
 | [2998-count-symmetric-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/HazemKhairat/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
