@@ -71,6 +71,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/HazemKhairat/LeetCode/tree/master/0971-shortest-bridge) |
 | [1018-largest-perimeter-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/HazemKhairat/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/HazemKhairat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -682,6 +683,7 @@
 | [0342-power-of-four](https://github.com/HazemKhairat/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/HazemKhairat/LeetCode/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/HazemKhairat/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/HazemKhairat/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
