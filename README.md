@@ -231,6 +231,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HazemKhairat/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HazemKhairat/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -551,6 +552,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/HazemKhairat/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HazemKhairat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HazemKhairat/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HazemKhairat/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -645,6 +647,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/HazemKhairat/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
