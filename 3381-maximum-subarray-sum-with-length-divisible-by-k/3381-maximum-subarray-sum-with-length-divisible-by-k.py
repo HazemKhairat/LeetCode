@@ -5,10 +5,9 @@ class Solution:
         for i in range(1, n):
             nums[i] += nums[i - 1]
 
-        res = [0] * n
+        dp = [-inf] * n
         for i in range(k, n):
             curr = nums[i] - nums[i - k]
-            res[i] = max(curr, curr + res[i - k])
+            dp[i] = max(curr, curr + dp[i - k])
 
-        ans = max(res[k:])
-        return ans
+        return max(dp)
