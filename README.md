@@ -240,6 +240,7 @@
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3429-special-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HazemKhairat/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HazemKhairat/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -557,6 +558,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HazemKhairat/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -783,6 +785,7 @@
 | [3336-water-bottles-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HazemKhairat/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
