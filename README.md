@@ -280,6 +280,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -684,6 +685,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -911,6 +913,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -946,6 +949,7 @@
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HazemKhairat/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
