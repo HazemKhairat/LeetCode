@@ -813,6 +813,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HazemKhairat/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3830-find-closest-person](https://github.com/HazemKhairat/LeetCode/tree/master/3830-find-closest-person) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/HazemKhairat/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
@@ -1639,6 +1640,7 @@
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
