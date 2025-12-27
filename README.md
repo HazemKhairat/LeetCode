@@ -280,6 +280,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/HazemKhairat/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -535,6 +536,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/HazemKhairat/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -686,6 +688,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1607,6 +1610,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HazemKhairat/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/HazemKhairat/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
