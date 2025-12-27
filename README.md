@@ -281,6 +281,7 @@
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/HazemKhairat/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -920,6 +921,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1107,6 +1109,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/HazemKhairat/LeetCode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3863-power-grid-maintenance](https://github.com/HazemKhairat/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -1301,6 +1304,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HazemKhairat/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3745-maximize-expression-of-three-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
