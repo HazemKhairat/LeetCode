@@ -281,6 +281,7 @@
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/HazemKhairat/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1199,6 +1200,7 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/HazemKhairat/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HazemKhairat/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/HazemKhairat/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/HazemKhairat/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -1511,6 +1513,7 @@
 | [2872-maximum-number-of-k-divisible-components](https://github.com/HazemKhairat/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HazemKhairat/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/HazemKhairat/LeetCode/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Binary Tree
 |  |
 | ------- |
