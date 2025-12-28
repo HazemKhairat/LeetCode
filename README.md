@@ -95,6 +95,7 @@
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HazemKhairat/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HazemKhairat/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HazemKhairat/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/HazemKhairat/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
@@ -1136,6 +1137,7 @@
 | [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HazemKhairat/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1328,6 +1330,7 @@
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HazemKhairat/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
