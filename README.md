@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/HazemKhairat/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/HazemKhairat/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HazemKhairat/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -751,6 +752,7 @@
 | [0050-powx-n](https://github.com/HazemKhairat/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/HazemKhairat/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HazemKhairat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HazemKhairat/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
