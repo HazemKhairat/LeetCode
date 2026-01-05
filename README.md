@@ -144,6 +144,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HazemKhairat/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/HazemKhairat/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -905,6 +906,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/HazemKhairat/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1880-largest-merge-of-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/HazemKhairat/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HazemKhairat/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HazemKhairat/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -1151,6 +1153,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/HazemKhairat/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/HazemKhairat/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
