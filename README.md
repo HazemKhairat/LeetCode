@@ -546,6 +546,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/HazemKhairat/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -936,6 +937,7 @@
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/HazemKhairat/LeetCode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
