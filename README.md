@@ -91,6 +91,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/HazemKhairat/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/HazemKhairat/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -775,6 +776,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/HazemKhairat/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1390-four-divisors](https://github.com/HazemKhairat/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HazemKhairat/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1724,6 +1726,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/HazemKhairat/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/HazemKhairat/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HazemKhairat/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Counting Sort
