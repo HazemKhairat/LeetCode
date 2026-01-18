@@ -1,16 +1,14 @@
 class Solution:
     def countPairs(self, words: List[str]) -> int:
         pattern_cnt = Counter()
-        ans = 0
+        total = 0
 
         for word in words:
-            chars = list(word)
-            base = ord(chars[0])
-            for i in range(len(word)):
-                chars[i] = str((ord(chars[i]) - base) % 26)
+            chars = ["0"] * len(word)
+            for i in range(1, len(word)):
+                chars[i] = str((ord(word[i]) - ord(word[i - 1])) % 26)
             pattern = "".join(chars)
-            print(pattern)
-            ans += pattern_cnt[pattern]
+            total += pattern_cnt[pattern]
             pattern_cnt[pattern] += 1
 
-        return ans
+        return total
