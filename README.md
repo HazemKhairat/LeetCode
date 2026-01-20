@@ -92,6 +92,7 @@
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HazemKhairat/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HazemKhairat/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/HazemKhairat/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -566,6 +567,7 @@
 | [0732-my-calendar-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HazemKhairat/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1160,6 +1162,7 @@
 | [1073-number-of-enclaves](https://github.com/HazemKhairat/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HazemKhairat/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/HazemKhairat/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1357,6 +1360,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HazemKhairat/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HazemKhairat/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HazemKhairat/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
