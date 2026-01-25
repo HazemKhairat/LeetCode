@@ -147,6 +147,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/HazemKhairat/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HazemKhairat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1310,6 +1311,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HazemKhairat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HazemKhairat/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1443,6 +1445,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HazemKhairat/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HazemKhairat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/HazemKhairat/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HazemKhairat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HazemKhairat/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HazemKhairat/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/2478-longest-nice-subarray) |
