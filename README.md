@@ -221,6 +221,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/HazemKhairat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HazemKhairat/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HazemKhairat/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HazemKhairat/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -1334,6 +1335,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/HazemKhairat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HazemKhairat/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HazemKhairat/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HazemKhairat/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/HazemKhairat/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -1669,6 +1671,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/HazemKhairat/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HazemKhairat/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/HazemKhairat/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
