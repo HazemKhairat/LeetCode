@@ -4,28 +4,27 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def balanceBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        arr = []
+        sorted_arr = []
 
-        def inOrderTravers(root):
-            if root == None:
+        def traverse(root):
+            if not root:
                 return
 
-            inOrderTravers(root.left)
-            arr.append(root.val)
-            inOrderTravers(root.right)
+            traverse(root.left)
+            sorted_arr.append(root.val)
+            traverse(root.right)
 
-        inOrderTravers(root)
+        traverse(root)
 
-        def balanceArr(l, r):
+        def balanced_bst(l, r):
             if l > r:
                 return None
 
             mid = (l + r) // 2
-            left = balanceArr(l, mid - 1)
-            right = balanceArr(mid + 1, r)
-            return TreeNode(arr[mid], left, right)
+            left_subTree = balanced_bst(l, mid - 1)
+            right_subTree = balanced_bst(mid + 1, r)
+            return TreeNode(sorted_arr[mid], left_subTree, right_subTree)
 
-        return balanceArr(0, len(arr) - 1)
+        return balanced_bst(0, len(sorted_arr) - 1)
