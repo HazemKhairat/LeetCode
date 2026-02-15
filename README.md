@@ -465,6 +465,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HazemKhairat/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HazemKhairat/LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/HazemKhairat/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/HazemKhairat/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/HazemKhairat/LeetCode/tree/master/0127-word-ladder) |
@@ -740,6 +741,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HazemKhairat/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/HazemKhairat/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HazemKhairat/LeetCode/tree/master/0342-power-of-four) |
@@ -780,6 +782,7 @@
 | [0060-permutation-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/HazemKhairat/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HazemKhairat/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HazemKhairat/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/HazemKhairat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HazemKhairat/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HazemKhairat/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1490,6 +1493,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HazemKhairat/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/HazemKhairat/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/HazemKhairat/LeetCode/tree/master/1642-water-bottles) |
