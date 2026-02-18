@@ -747,6 +747,7 @@
 | [0231-power-of-two](https://github.com/HazemKhairat/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HazemKhairat/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/HazemKhairat/LeetCode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/HazemKhairat/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/HazemKhairat/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
