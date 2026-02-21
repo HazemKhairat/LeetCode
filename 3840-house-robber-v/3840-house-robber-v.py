@@ -2,13 +2,12 @@ class Solution:
     def rob(self, nums: List[int], colors: List[int]) -> int:
 
         n = len(nums)
-        dp = [0] * (n + 1)
-        dp[1] = nums[0]
+        dp0, dp1 = 0, nums[0]
 
         for i in range(1, n):
             if colors[i] != colors[i - 1]:
-                dp[i + 1] = dp[i] + nums[i]
+                dp0, dp1 = dp1, dp1 + nums[i]
             else:
-                dp[i + 1] = max(dp[i], dp[i - 1] + nums[i])
+                dp0, dp1 = dp1, max(dp1, dp0 + nums[i])
 
-        return dp[-1]
+        return dp1
