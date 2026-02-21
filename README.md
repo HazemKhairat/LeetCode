@@ -749,6 +749,7 @@
 | [0401-binary-watch](https://github.com/HazemKhairat/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/HazemKhairat/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HazemKhairat/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HazemKhairat/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/HazemKhairat/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -794,6 +795,7 @@
 | [0326-power-of-three](https://github.com/HazemKhairat/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HazemKhairat/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HazemKhairat/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/HazemKhairat/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/HazemKhairat/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/HazemKhairat/LeetCode/tree/master/0900-reordered-power-of-2) |
