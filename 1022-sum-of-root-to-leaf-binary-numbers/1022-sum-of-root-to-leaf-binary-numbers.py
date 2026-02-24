@@ -7,18 +7,11 @@
 class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
 
-        def convertToDice(binNum):
-            binNum = binNum[::-1]
-            res = 0
-            for i in range(len(binNum)):
-                res += int(binNum[i]) * 2**i
-            return res
-
         def solve(root, binNum):
             if not root:
                 return 0
             elif not root.left and not root.right:
-                return convertToDice(binNum + str(root.val))
+                return int(binNum + str(root.val), 2)
 
             left = solve(root.left, binNum + str(root.val))
             right = solve(root.right, binNum + str(root.val))
