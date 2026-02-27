@@ -876,6 +876,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/HazemKhairat/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3805-count-caesar-cipher-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3830-find-closest-person](https://github.com/HazemKhairat/LeetCode/tree/master/3830-find-closest-person) |
+| [3848-check-digitorial-permutation](https://github.com/HazemKhairat/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/HazemKhairat/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1018,6 +1019,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/HazemKhairat/LeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3805-count-caesar-cipher-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3848-check-digitorial-permutation](https://github.com/HazemKhairat/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HazemKhairat/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
