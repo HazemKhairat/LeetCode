@@ -8,7 +8,7 @@ class Solution:
         for i in range(1, n + 1):
             prefSum[i] = prefSum[i - 1] + nums[i - 1]
         for i in range(n - 1, -1, -1):
-            if suffProd[i + 1] > (MAX // nums[i]):
+            if suffProd[i + 1] * nums[i] > MAX:
                 suffProd[i] = MAX
             else:
                 suffProd[i] = suffProd[i + 1] * nums[i]
