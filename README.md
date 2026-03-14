@@ -312,6 +312,7 @@
 | [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/HazemKhairat/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/HazemKhairat/LeetCode/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3862-find-the-smallest-balanced-index](https://github.com/HazemKhairat/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/HazemKhairat/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -991,6 +992,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HazemKhairat/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/HazemKhairat/LeetCode/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/HazemKhairat/LeetCode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
