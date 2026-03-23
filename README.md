@@ -127,6 +127,7 @@
 | [1580-shuffle-the-array](https://github.com/HazemKhairat/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HazemKhairat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/HazemKhairat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HazemKhairat/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -388,6 +389,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HazemKhairat/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HazemKhairat/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HazemKhairat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HazemKhairat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1223,6 +1225,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/HazemKhairat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
