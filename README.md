@@ -1416,6 +1416,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HazemKhairat/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0374-guess-number-higher-or-lower](https://github.com/HazemKhairat/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/HazemKhairat/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0732-my-calendar-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -1733,6 +1734,7 @@
 ## Interactive
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/HazemKhairat/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Enumeration
 |  |
