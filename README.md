@@ -318,6 +318,7 @@
 | [3862-find-the-smallest-balanced-index](https://github.com/HazemKhairat/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/HazemKhairat/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
@@ -893,6 +894,7 @@
 | [3830-find-closest-person](https://github.com/HazemKhairat/LeetCode/tree/master/3830-find-closest-person) |
 | [3848-check-digitorial-permutation](https://github.com/HazemKhairat/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/HazemKhairat/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
