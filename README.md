@@ -491,6 +491,7 @@
 | [0443-string-compression](https://github.com/HazemKhairat/LeetCode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/HazemKhairat/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/HazemKhairat/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/HazemKhairat/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/HazemKhairat/LeetCode/tree/master/0768-partition-labels) |
@@ -1543,6 +1544,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/HazemKhairat/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/HazemKhairat/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0657-robot-return-to-origin](https://github.com/HazemKhairat/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HazemKhairat/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
