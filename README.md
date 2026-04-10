@@ -295,6 +295,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HazemKhairat/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HazemKhairat/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HazemKhairat/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -738,6 +739,7 @@
 | [3678-design-task-manager](https://github.com/HazemKhairat/LeetCode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/HazemKhairat/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HazemKhairat/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
