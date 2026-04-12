@@ -825,6 +825,7 @@
 | [0279-perfect-squares](https://github.com/HazemKhairat/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/HazemKhairat/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HazemKhairat/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/HazemKhairat/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HazemKhairat/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/HazemKhairat/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1433,6 +1434,7 @@
 | [0278-first-bad-version](https://github.com/HazemKhairat/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HazemKhairat/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0367-valid-perfect-square](https://github.com/HazemKhairat/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HazemKhairat/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/HazemKhairat/LeetCode/tree/master/0611-valid-triangle-number) |
