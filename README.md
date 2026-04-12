@@ -67,6 +67,7 @@
 | [0830-largest-triangle-area](https://github.com/HazemKhairat/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/HazemKhairat/LeetCode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/HazemKhairat/LeetCode/tree/master/0869-similar-string-groups) |
+| [0875-koko-eating-bananas](https://github.com/HazemKhairat/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1444,6 +1445,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HazemKhairat/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HazemKhairat/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/HazemKhairat/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/HazemKhairat/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HazemKhairat/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
