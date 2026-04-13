@@ -528,6 +528,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HazemKhairat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HazemKhairat/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1754-largest-merge-of-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HazemKhairat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -975,6 +976,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/HazemKhairat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HazemKhairat/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1754-largest-merge-of-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HazemKhairat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HazemKhairat/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1880-largest-merge-of-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
@@ -1502,6 +1504,7 @@
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/HazemKhairat/LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HazemKhairat/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1754-largest-merge-of-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1880-largest-merge-of-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/HazemKhairat/LeetCode/tree/master/1894-merge-strings-alternately) |
