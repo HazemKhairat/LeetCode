@@ -149,6 +149,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/HazemKhairat/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HazemKhairat/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/HazemKhairat/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/HazemKhairat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HazemKhairat/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
