@@ -7,7 +7,7 @@ class Solution:
             chars[ord(ch) - 97] += 1
         # print(chars)
 
-        ans = ""
+        ans = []
         while True:
             # find the max char in s
             max_char = -1
@@ -19,8 +19,9 @@ class Solution:
             # if not found break
             if max_char == -1:
                 break
-
-            ans += min(k, chars[max_char]) * (chr(max_char + 97))
+            
+            use = min(k, chars[max_char])
+            ans.append(use * chr(max_char + 97))
 
             # if max char freq <= k then it's freq = 0
             if chars[max_char] <= k:
@@ -42,4 +43,4 @@ class Solution:
                 ans += chr(second_max_char + 97)
                 chars[second_max_char] -= 1
 
-        return ans
+        return "".join(ans)
