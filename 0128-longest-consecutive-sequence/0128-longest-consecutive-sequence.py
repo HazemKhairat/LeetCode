@@ -1,21 +1,20 @@
-from sortedcontainers import SortedSet
-
-
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        if len(nums) == 0:
-            return 0
+        ans = 0
+        # create a set to access elements in O(1)
+        st = set(nums)
 
-        ans = 1
-        count = 1
-        st = SortedSet(nums)
-        n = len(st)
+        # check the chain of each item
+        for num in st:
 
-        for i in range(1, n):
-            if st[i] == (st[i - 1] + 1):
-                count += 1
-            else:
-                ans = max(ans, count)
+            # start only if it is the begainng of the chain
+            if (num - 1) not in st:
+                curr = num
                 count = 1
+                while (curr + 1) in st:
+                    curr += 1
+                    count += 1
 
-        return max(ans, count)
+                ans = max(ans, count)
+
+        return ans
