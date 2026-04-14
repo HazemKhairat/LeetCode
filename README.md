@@ -498,6 +498,7 @@
 | [0140-word-break-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/HazemKhairat/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -661,6 +662,7 @@
 | [0139-word-break](https://github.com/HazemKhairat/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/HazemKhairat/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/HazemKhairat/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/HazemKhairat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -1387,6 +1389,7 @@
 | [0056-merge-intervals](https://github.com/HazemKhairat/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HazemKhairat/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/HazemKhairat/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/HazemKhairat/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/HazemKhairat/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0436-find-right-interval](https://github.com/HazemKhairat/LeetCode/tree/master/0436-find-right-interval) |
