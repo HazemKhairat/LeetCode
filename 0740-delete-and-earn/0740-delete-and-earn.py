@@ -4,25 +4,22 @@ class Solution:
         freq = Counter(nums)
         arr = list(freq.keys())
         arr.sort()
-        memo = {}
 
-        def solve(idx, prevPicked):
-            if idx == len(arr):
-                return 0
-            key = (idx, prevPicked)
+        n = len(arr)
 
-            if key in memo:
-                return memo[key]
+        dp = [0] * n
+        dp[0] = arr[0] * freq[arr[0]]
+        # print(arr)
 
-            take = skip = 0
+        for i in range(1, n):
+            val = arr[i] * freq[arr[i]]
 
-            if not prevPicked or arr[idx] != (arr[idx - 1] + 1):
-                val = arr[idx] * freq[arr[idx]]
-                take = val + solve(idx + 1, True)
+            if arr[i] == arr[i - 1] + 1:
+                skip = dp[i - 1]
+                take = (dp[i - 2] if i > 1 else 0) + val
+                dp[i] = max(take, skip)
+            else:
+                dp[i] = val + dp[i - 1]
 
-            skip = solve(idx + 1, False)
-
-            memo[key] = max(take, skip)
-            return max(take, skip)
-
-        return solve(0, False)
+        # print(dp)
+        return dp[n - 1]
