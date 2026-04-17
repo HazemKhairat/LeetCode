@@ -314,6 +314,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HazemKhairat/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -768,6 +769,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HazemKhairat/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HazemKhairat/LeetCode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -919,6 +921,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HazemKhairat/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/HazemKhairat/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HazemKhairat/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
