@@ -170,6 +170,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/HazemKhairat/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/HazemKhairat/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HazemKhairat/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HazemKhairat/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HazemKhairat/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1011,6 +1012,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/HazemKhairat/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/HazemKhairat/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/HazemKhairat/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2182-construct-string-with-repeat-limit](https://github.com/HazemKhairat/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HazemKhairat/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
