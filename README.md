@@ -88,6 +88,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/HazemKhairat/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/HazemKhairat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1032-satisfiability-of-equality-equations](https://github.com/HazemKhairat/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/HazemKhairat/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -399,6 +400,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HazemKhairat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/HazemKhairat/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/HazemKhairat/LeetCode/tree/master/1105-uncrossed-lines) |
@@ -692,6 +694,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HazemKhairat/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/HazemKhairat/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-find-the-town-judge](https://github.com/HazemKhairat/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -1488,6 +1491,7 @@
 | [0792-binary-search](https://github.com/HazemKhairat/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/HazemKhairat/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/HazemKhairat/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1027-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HazemKhairat/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
