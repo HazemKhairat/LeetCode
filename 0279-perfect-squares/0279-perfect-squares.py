@@ -1,25 +1,29 @@
 class Solution:
     def numSquares(self, n: int) -> int:
-        squares = []
-        for i in range(1,101):
-            squares.append(i*i)
+        arr = []
+        for i in range(1, int(math.sqrt(n)) + 1):
+            arr.append(i * i)
         
-        memo = [[-1 for _ in range(n + 1)] for _ in range(len(squares))]
+        arr = arr[::-1]
 
-        def solve(index, n):
-            if n == 0:
-                return 0
-            if index == len(squares) or n < 0:
-                return float('inf')
-                  
-            if memo[index][n] != -1:
-                return memo[index][n]
+        dp = [[0 for _ in range(n + 1)] for _ in range(len(arr) + 1)]
+
+        def solve(n, idx):
+            if idx == len(arr) or n < 0:
+                return inf
+
+            if n - arr[idx] == 0:
+                return 1
+
+            
+            if dp[idx][n]:
+                return dp[idx][n]
+
             take = skip = 0
+            take = 1 + solve(n - arr[idx], idx)
+            skip = solve(n, idx + 1)
 
-            take = 1 + solve(index, n - squares[index])
-            skip = solve(index + 1, n)
+            dp[idx][n] = min(take, skip)
+            return min(take, skip)
 
-            memo[index][n] = min(take, skip)
-            return memo[index][n]
-        
-        return solve(0, n)
+        return solve(n, 0)
