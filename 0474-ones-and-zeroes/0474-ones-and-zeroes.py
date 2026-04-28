@@ -1,29 +1,37 @@
 class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
-        arr = []
-        for s in strs:
-            zeros, ones = 0, 0
-            for ch in s:
-                if ch == "1":
-                    ones += 1
-                else:
-                    zeros += 1
-            arr.append((zeros, ones))
 
-        memo = {}
+        ones = [0] * len(strs)
+        zeros = [0] * len(strs)
+
+        for idx, st in enumerate(strs):
+            for digit in st:
+                if digit == "0":
+                    zeros[idx] += 1
+                else:
+                    ones[idx] += 1
+
+        # print(ones)
+        # print(zeros)
+
+        dp = [
+            [[-1 for _ in range(len(strs) + 1)] for _ in range(n + 10)]
+            for _ in range(m + 10)
+        ]
+
         def solve(m, n, idx):
-            if m < 0 or n < 0:
-                return -inf
-            if idx == len(arr):
+            if idx == len(strs):
                 return 0
-            if (m, n, idx) in memo:
-                return memo[(m, n, idx)]
+
+            if dp[m][n][idx] != -1:
+                return dp[m][n][idx]
 
             take = skip = 0
+            if m - zeros[idx] >= 0 and n - ones[idx] >= 0:
+                take = 1 + solve(m - zeros[idx], n - ones[idx], idx + 1)
 
-            take = 1 + solve(m - arr[idx][0], n - arr[idx][1], idx + 1)
             skip = solve(m, n, idx + 1)
-            memo[(m, n, idx)] = max(take, skip)
-            return max(take, skip)
+            dp[m][n][idx] = max(take, skip)
+            return dp[m][n][idx]
 
         return solve(m, n, 0)
