@@ -437,6 +437,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/HazemKhairat/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2466-count-ways-to-build-good-strings](https://github.com/HazemKhairat/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HazemKhairat/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HazemKhairat/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
