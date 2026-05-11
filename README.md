@@ -226,6 +226,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/HazemKhairat/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HazemKhairat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HazemKhairat/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HazemKhairat/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HazemKhairat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1652,6 +1653,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/HazemKhairat/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
