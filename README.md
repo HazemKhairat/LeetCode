@@ -257,6 +257,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HazemKhairat/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HazemKhairat/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/HazemKhairat/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HazemKhairat/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -602,6 +603,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/HazemKhairat/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HazemKhairat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/HazemKhairat/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -774,6 +776,7 @@
 | [2784-check-if-array-is-good](https://github.com/HazemKhairat/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HazemKhairat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1000,6 +1003,7 @@
 | [0140-word-break-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HazemKhairat/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HazemKhairat/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 ## Rolling Hash
