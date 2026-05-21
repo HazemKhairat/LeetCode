@@ -4,18 +4,18 @@ class Solution:
         def get_all_prefixes(arr):
             st = set()
             for num in arr:
-                s = str(num)
-                for i in range(len(s)):
-                    st.add(s[: i + 1])
+                while num:
+                    st.add(num)
+                    num //= 10
             return st
 
         st = get_all_prefixes(arr1)
 
         ans = 0
         for num in arr2:
-            s = str(num)
-            for i in range(len(s)):
-                if s[: i + 1] in st:
-                    ans = max(ans, i + 1)
+            while num:
+                if num in st:
+                    ans = max(ans, len(str(num)))
+                num //= 10
 
         return ans
