@@ -978,6 +978,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/HazemKhairat/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/HazemKhairat/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3936-split-array-by-prime-indices](https://github.com/HazemKhairat/LeetCode/tree/master/3936-split-array-by-prime-indices) |
 ## Combinatorics
 |  |
@@ -1577,6 +1578,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/HazemKhairat/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
