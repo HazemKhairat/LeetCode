@@ -610,6 +610,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/HazemKhairat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/HazemKhairat/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/HazemKhairat/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -784,6 +785,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HazemKhairat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/HazemKhairat/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
