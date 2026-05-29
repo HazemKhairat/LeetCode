@@ -279,6 +279,7 @@
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/HazemKhairat/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HazemKhairat/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HazemKhairat/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
@@ -956,6 +957,7 @@
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/HazemKhairat/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HazemKhairat/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HazemKhairat/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3373-maximum-prime-difference) |
