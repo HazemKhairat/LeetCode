@@ -268,6 +268,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3161-block-placement-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/HazemKhairat/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HazemKhairat/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -1583,6 +1584,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/HazemKhairat/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/HazemKhairat/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3161-block-placement-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3161-block-placement-queries) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/HazemKhairat/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1958,12 +1960,14 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HazemKhairat/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HazemKhairat/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0732-my-calendar-iii](https://github.com/HazemKhairat/LeetCode/tree/master/0732-my-calendar-iii) |
+| [3161-block-placement-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Queue
