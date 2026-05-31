@@ -185,6 +185,7 @@
 | [2058-concatenation-of-array](https://github.com/HazemKhairat/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HazemKhairat/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2126-destroying-asteroids](https://github.com/HazemKhairat/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HazemKhairat/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/HazemKhairat/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HazemKhairat/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1070,6 +1071,7 @@
 | [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/HazemKhairat/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HazemKhairat/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/HazemKhairat/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2182-construct-string-with-repeat-limit](https://github.com/HazemKhairat/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HazemKhairat/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1496,6 +1498,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HazemKhairat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/HazemKhairat/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2126-destroying-asteroids](https://github.com/HazemKhairat/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HazemKhairat/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
