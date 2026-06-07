@@ -429,6 +429,7 @@
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1012-numbers-with-repeated-digits](https://github.com/HazemKhairat/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/HazemKhairat/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -917,6 +918,7 @@
 | [0830-largest-triangle-area](https://github.com/HazemKhairat/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/HazemKhairat/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/HazemKhairat/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/1018-largest-perimeter-triangle) |
