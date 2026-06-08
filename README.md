@@ -460,6 +460,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/HazemKhairat/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HazemKhairat/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2376-count-special-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2376-count-special-integers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/HazemKhairat/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -953,6 +954,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HazemKhairat/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HazemKhairat/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2376-count-special-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2376-count-special-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HazemKhairat/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
