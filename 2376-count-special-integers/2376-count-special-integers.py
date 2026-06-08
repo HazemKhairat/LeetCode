@@ -4,20 +4,18 @@ class Solution:
         digits = [int(ch) for ch in s]
 
         dp = [
-            [
-                [[[-1 for _ in range(1024)] for _ in range(2)] for _ in range(2)]
-                for _ in range(2)
-            ]
+            [[[-1 for _ in range(1024)] for _ in range(2)] for _ in range(2)]
             for idx in range(10)
         ]
 
-        def solve(idx, tight, started, repeated, mask):  # 10 , 2, 2, 2, 1024
+        def solve(idx, tight, started, mask):  # 10 , 2, 2, 1024
 
             if idx == len(digits):
-                return 1 if started and not repeated else 0
+                return 1 if started else 0
 
-            if dp[idx][tight][started][repeated][mask] != -1:
-                return dp[idx][tight][started][repeated][mask]
+            if dp[idx][tight][started][mask] != -1:
+                return dp[idx][tight][started][mask]
+
             k = digits[idx] if tight else 9
             res = 0
 
@@ -26,16 +24,19 @@ class Solution:
                 newTight = tight and (i == digits[idx])
 
                 if not newStarted:
-                    res += solve(idx + 1, newTight, False, repeated, mask)
+                    res += solve(idx + 1, newTight, False, mask)
                 else:
+                    if mask & (1 << i):
+                        continue
+
                     res += solve(
                         idx + 1,
                         newTight,
                         newStarted,
-                        (repeated or ((mask & (1 << i)) != 0)),
                         mask | (1 << i),
                     )
-            dp[idx][tight][started][repeated][mask] = res
+                    
+            dp[idx][tight][started][mask] = res
             return res
 
-        return solve(0, 1, False, False, 0)
+        return solve(0, 1, False, 0)
