@@ -2041,8 +2041,10 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/HazemKhairat/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/HazemKhairat/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/HazemKhairat/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
