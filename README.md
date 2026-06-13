@@ -364,6 +364,7 @@
 | [3827-implement-router](https://github.com/HazemKhairat/LeetCode/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/HazemKhairat/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/HazemKhairat/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/HazemKhairat/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/HazemKhairat/LeetCode/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3862-find-the-smallest-balanced-index](https://github.com/HazemKhairat/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/HazemKhairat/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -655,6 +656,7 @@
 | [3805-maximize-active-section-with-trade-i](https://github.com/HazemKhairat/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3805-count-caesar-cipher-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3811-reverse-degree-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/HazemKhairat/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HazemKhairat/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1749,6 +1751,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/HazemKhairat/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/HazemKhairat/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
