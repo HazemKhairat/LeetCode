@@ -1185,6 +1185,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HazemKhairat/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HazemKhairat/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/HazemKhairat/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HazemKhairat/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HazemKhairat/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1654,6 +1655,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HazemKhairat/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1880-largest-merge-of-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/HazemKhairat/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HazemKhairat/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HazemKhairat/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1894,6 +1896,7 @@
 | [0143-reorder-list](https://github.com/HazemKhairat/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HazemKhairat/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HazemKhairat/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
