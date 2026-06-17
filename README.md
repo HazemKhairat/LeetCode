@@ -175,6 +175,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/HazemKhairat/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HazemKhairat/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HazemKhairat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HazemKhairat/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1255,6 +1256,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HazemKhairat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/HazemKhairat/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HazemKhairat/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HazemKhairat/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HazemKhairat/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1371,6 +1373,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/HazemKhairat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1914-cyclically-rotating-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HazemKhairat/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HazemKhairat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1445,6 +1448,7 @@
 | [1558-course-schedule-iv](https://github.com/HazemKhairat/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HazemKhairat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HazemKhairat/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HazemKhairat/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/HazemKhairat/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HazemKhairat/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1611,6 +1615,7 @@
 | [1646-kth-missing-positive-number](https://github.com/HazemKhairat/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HazemKhairat/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HazemKhairat/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HazemKhairat/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/HazemKhairat/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HazemKhairat/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HazemKhairat/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -2060,6 +2065,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/HazemKhairat/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/HazemKhairat/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
 | ------- |
