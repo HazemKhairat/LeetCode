@@ -220,6 +220,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/HazemKhairat/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HazemKhairat/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HazemKhairat/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2392-build-a-matrix-with-conditions](https://github.com/HazemKhairat/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HazemKhairat/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2402-meeting-rooms-iii](https://github.com/HazemKhairat/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -1386,6 +1387,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HazemKhairat/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HazemKhairat/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2392-build-a-matrix-with-conditions](https://github.com/HazemKhairat/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2428-equal-row-and-column-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/HazemKhairat/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1500,6 +1502,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/HazemKhairat/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HazemKhairat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HazemKhairat/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2392-build-a-matrix-with-conditions](https://github.com/HazemKhairat/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Sorting
 |  |
 | ------- |
@@ -2080,6 +2083,7 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/HazemKhairat/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/HazemKhairat/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2392-build-a-matrix-with-conditions](https://github.com/HazemKhairat/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HazemKhairat/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
