@@ -108,6 +108,7 @@
 | [1200-minimum-absolute-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HazemKhairat/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HazemKhairat/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -448,6 +449,7 @@
 | [1170-shortest-common-supersequence](https://github.com/HazemKhairat/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1340-jump-game-v](https://github.com/HazemKhairat/LeetCode/tree/master/1340-jump-game-v) |
@@ -577,6 +579,7 @@
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/HazemKhairat/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HazemKhairat/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HazemKhairat/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HazemKhairat/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -762,6 +765,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HazemKhairat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1249-snapshot-array](https://github.com/HazemKhairat/LeetCode/tree/master/1249-snapshot-array) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HazemKhairat/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/HazemKhairat/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -880,6 +884,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/HazemKhairat/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HazemKhairat/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HazemKhairat/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/HazemKhairat/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1149,6 +1154,7 @@
 | [0900-reordered-power-of-2](https://github.com/HazemKhairat/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HazemKhairat/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/HazemKhairat/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HazemKhairat/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1901,6 +1907,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/HazemKhairat/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HazemKhairat/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HazemKhairat/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HazemKhairat/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -2089,4 +2096,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HazemKhairat/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Bitmask
+|  |
+| ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/HazemKhairat/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
