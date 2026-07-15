@@ -1019,6 +1019,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HazemKhairat/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HazemKhairat/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/HazemKhairat/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -1984,6 +1985,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/HazemKhairat/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HazemKhairat/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3373-maximum-prime-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HazemKhairat/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-split-array-by-prime-indices](https://github.com/HazemKhairat/LeetCode/tree/master/3936-split-array-by-prime-indices) |
