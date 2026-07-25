@@ -1015,6 +1015,7 @@
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/HazemKhairat/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HazemKhairat/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1613,6 +1614,7 @@
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HazemKhairat/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/HazemKhairat/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3536-maximum-product-of-two-digits](https://github.com/HazemKhairat/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/HazemKhairat/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HazemKhairat/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
