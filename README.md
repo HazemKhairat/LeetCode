@@ -1014,6 +1014,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HazemKhairat/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HazemKhairat/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3373-maximum-prime-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -2026,6 +2027,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HazemKhairat/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/HazemKhairat/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HazemKhairat/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HazemKhairat/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HazemKhairat/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HazemKhairat/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/HazemKhairat/LeetCode/tree/master/3713-longest-balanced-substring-i) |
