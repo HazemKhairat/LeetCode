@@ -647,6 +647,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HazemKhairat/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HazemKhairat/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -837,6 +838,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/HazemKhairat/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HazemKhairat/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HazemKhairat/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/HazemKhairat/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1769,6 +1771,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/HazemKhairat/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HazemKhairat/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
