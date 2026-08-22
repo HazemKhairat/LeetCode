@@ -1038,6 +1038,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HazemKhairat/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HazemKhairat/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/HazemKhairat/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HazemKhairat/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
