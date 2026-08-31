@@ -2001,6 +2001,7 @@
 | [0143-reorder-list](https://github.com/HazemKhairat/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HazemKhairat/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HazemKhairat/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HazemKhairat/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
