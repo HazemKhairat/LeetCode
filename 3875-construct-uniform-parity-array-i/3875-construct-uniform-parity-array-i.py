@@ -1,21 +1,34 @@
 class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
-
         n = len(nums1)
+        nums2 = [None] * n
 
-        def find(i, parity):
-            for j in range(n):
-                if j == i:
-                    continue
-                if (nums1[i] - nums1[j]) % 2 == parity:
-                    return True
-            return False
+        # even elements construction
+        for i in range(n):
+            if nums1[i] % 2 == 0:
+                nums2[i] = nums1[i]
+            else:
+                for j in range(n):
+                    if i == j:
+                        continue
+                    if (nums1[i] - nums1[j]) % 2 == 0:
+                        nums2[i] = nums1[i] - nums1[j]
 
-        def solve(parity):
-            for i in range(n):
-                if (nums1[i] % 2 != parity) and (not find(i, parity)):
-                    return False
-
+        if not any(nums2) == None:
             return True
 
-        return solve(0) or solve(1)
+        # odd elements construction
+        for i in range(n):
+            if nums1[i] % 2 == 1:
+                nums2[i] = nums1[i]
+            else:
+                for j in range(n):
+                    if i == j:
+                        continue
+                    if (nums1[i] - nums1[j]) % 2 == 1:
+                        nums2[i] = nums1[i] - nums1[j]
+
+        if not any(num2) == None:
+            return True
+
+        return False
