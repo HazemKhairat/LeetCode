@@ -2,15 +2,10 @@ class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
         n = len(nums1)
         nums1.sort()
-        # actually we only need the parity of the number not the value itself.
-        for i in range(n):
-            nums1[i] %= 2
 
         pref = [False] * (n + 1)
         for i in range(1, n + 1):
-            pref[i] = pref[i - 1] or (nums1[i - 1] == 1)
-
-        print(pref)
+            pref[i] = pref[i - 1] or (nums1[i - 1] % 2 == 1)
 
         def construct(p):  # 0 -> even , 1 -> odd
             for i in range(n):
