@@ -396,6 +396,7 @@
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
+| [3903-smallest-stable-index-i](https://github.com/HazemKhairat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/HazemKhairat/LeetCode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HazemKhairat/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
@@ -744,6 +745,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/HazemKhairat/LeetCode/tree/master/3862-find-the-smallest-balanced-index) |
+| [3903-smallest-stable-index-i](https://github.com/HazemKhairat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/4015-split-array-with-minimum-difference) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/HazemKhairat/LeetCode/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Hash Table
