@@ -1,21 +1,19 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
-        n, m = len(s), len(t)
-        memo = [[-1] * n for _ in range(n)]
+        
+        @cache
+        def solve(idx1, idx2):
+            if idx2 == len(t):
+                return 1
+            if idx1 == len(s):
+                return 0
 
-        def backtrack(idxS, idxT):
-            if idxT == m: return 1
-            if idxS == n: return 0
-
-            if memo[idxS][idxT] != -1:
-                return memo[idxS][idxT]
-            
             take = skip = 0
-            if s[idxS] == t[idxT]:
-                take += backtrack(idxS + 1, idxT + 1)
-            
-            skip += backtrack(idxS + 1, idxT)
-            memo[idxS][idxT] = take + skip
-            return memo[idxS][idxT]
+            if s[idx1] == t[idx2]:
+                take = solve(idx1 + 1, idx2 + 1)
 
-        return backtrack(0, 0)
+            skip = solve(idx1 + 1, idx2)
+
+            return take + skip
+
+        return solve(0, 0)
