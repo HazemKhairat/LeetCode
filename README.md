@@ -458,6 +458,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HazemKhairat/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/HazemKhairat/LeetCode/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/HazemKhairat/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1012-numbers-with-repeated-digits](https://github.com/HazemKhairat/LeetCode/tree/master/1012-numbers-with-repeated-digits) |
 | [1013-fibonacci-number](https://github.com/HazemKhairat/LeetCode/tree/master/1013-fibonacci-number) |
@@ -594,6 +595,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/HazemKhairat/LeetCode/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/HazemKhairat/LeetCode/tree/master/0869-similar-string-groups) |
+| [0940-distinct-subsequences-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/HazemKhairat/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1032-satisfiability-of-equality-equations](https://github.com/HazemKhairat/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
