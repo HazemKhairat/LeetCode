@@ -333,6 +333,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HazemKhairat/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HazemKhairat/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HazemKhairat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1052,6 +1053,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/HazemKhairat/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HazemKhairat/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HazemKhairat/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HazemKhairat/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
