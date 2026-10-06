@@ -599,6 +599,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HazemKhairat/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/HazemKhairat/LeetCode/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/HazemKhairat/LeetCode/tree/master/0869-similar-string-groups) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/HazemKhairat/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -1153,6 +1154,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/HazemKhairat/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/HazemKhairat/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/HazemKhairat/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HazemKhairat/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1277,6 +1279,7 @@
 | [0496-next-greater-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/HazemKhairat/LeetCode/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -2237,5 +2240,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
