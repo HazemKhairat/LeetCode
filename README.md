@@ -588,6 +588,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HazemKhairat/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/HazemKhairat/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -1315,6 +1316,7 @@
 | [0210-course-schedule-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/HazemKhairat/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/HazemKhairat/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HazemKhairat/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -2008,6 +2010,7 @@
 | [0052-n-queens-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/HazemKhairat/LeetCode/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/HazemKhairat/LeetCode/tree/master/1022-unique-paths-iii) |
