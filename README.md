@@ -604,6 +604,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/HazemKhairat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/HazemKhairat/LeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/HazemKhairat/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/HazemKhairat/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HazemKhairat/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HazemKhairat/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1281,6 +1282,7 @@
 | [0654-maximum-binary-tree](https://github.com/HazemKhairat/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/HazemKhairat/LeetCode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -2244,5 +2246,6 @@
 | [0020-valid-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
