@@ -626,6 +626,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HazemKhairat/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HazemKhairat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HazemKhairat/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1165,6 +1166,7 @@
 | [1448-maximum-69-number](https://github.com/HazemKhairat/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/HazemKhairat/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HazemKhairat/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HazemKhairat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/HazemKhairat/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HazemKhairat/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1283,6 +1285,7 @@
 | [0682-baseball-game](https://github.com/HazemKhairat/LeetCode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HazemKhairat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HazemKhairat/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -2247,5 +2250,6 @@
 | [0022-generate-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HazemKhairat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HazemKhairat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HazemKhairat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
