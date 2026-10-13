@@ -365,6 +365,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HazemKhairat/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HazemKhairat/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/HazemKhairat/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HazemKhairat/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HazemKhairat/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HazemKhairat/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1214,6 +1215,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/HazemKhairat/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HazemKhairat/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/HazemKhairat/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -1690,6 +1692,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HazemKhairat/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HazemKhairat/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
