@@ -355,6 +355,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/HazemKhairat/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HazemKhairat/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3647-zero-array-transformation-iii](https://github.com/HazemKhairat/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HazemKhairat/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HazemKhairat/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -974,6 +975,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HazemKhairat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HazemKhairat/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HazemKhairat/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HazemKhairat/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
