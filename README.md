@@ -662,6 +662,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/HazemKhairat/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HazemKhairat/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HazemKhairat/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/HazemKhairat/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/HazemKhairat/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HazemKhairat/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HazemKhairat/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1040,6 +1041,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/HazemKhairat/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2376-count-special-integers](https://github.com/HazemKhairat/LeetCode/tree/master/2376-count-special-integers) |
+| [2409-count-days-spent-together](https://github.com/HazemKhairat/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HazemKhairat/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/HazemKhairat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HazemKhairat/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
