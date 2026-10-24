@@ -2,27 +2,20 @@ class Solution:
     def countDaysTogether(
         self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str
     ) -> int:
-
         months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
-        arriveA_M, arriveA_D = int(arriveAlice[0:2]), int(arriveAlice[3:])
-        leaveA_M, leaveA_D = int(leaveAlice[0:2]), int(leaveAlice[3:])
-        arriveB_M, arriveB_D = int(arriveBob[0:2]), int(arriveBob[3:])
-        leaveB_M, leaveB_D = int(leaveBob[0:2]), int(leaveBob[3:])
-        # print(arriveA_M, " ", arriveA_D, " ", leaveA_M, " ", leaveA_D)
-        # print(arriveB_M, " ", arriveB_D, " ", leaveB_M, " ", leaveB_D)
+        def month_to_day(date):
+            m, d = int(date[0:2]), int(date[3:])
+            return sum(months[: m - 1]) + d
 
-        def helper(MM, DD):
-            return sum(months[: MM - 1]) + DD
-
-        aliceArrive, aliceLeave, bobArrive, bobLeave = (
-            helper(arriveA_M, arriveA_D),
-            helper(leaveA_M, leaveA_D),
-            helper(arriveB_M, arriveB_D),
-            helper(leaveB_M, leaveB_D),
+        alice_start, alice_end, bob_start, bob_end = (
+            month_to_day(arriveAlice),
+            month_to_day(leaveAlice),
+            month_to_day(arriveBob),
+            month_to_day(leaveBob),
         )
 
-        start = max(aliceArrive, bobArrive)
-        end = min(aliceLeave, bobLeave)
+        start = max(alice_start, bob_start)
+        end = min(alice_end, bob_end)
 
         return max(0, end - start + 1)
