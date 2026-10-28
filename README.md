@@ -402,6 +402,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/HazemKhairat/LeetCode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-count-special-triplets](https://github.com/HazemKhairat/LeetCode/tree/master/3885-count-special-triplets) |
 | [3903-smallest-stable-index-i](https://github.com/HazemKhairat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/HazemKhairat/LeetCode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
@@ -519,6 +520,7 @@
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/HazemKhairat/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HazemKhairat/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 | [4027-number-of-stable-subsequences](https://github.com/HazemKhairat/LeetCode/tree/master/4027-number-of-stable-subsequences) |
 | [4041-climbing-stairs-ii](https://github.com/HazemKhairat/LeetCode/tree/master/4041-climbing-stairs-ii) |
@@ -982,6 +984,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HazemKhairat/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/HazemKhairat/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -1515,6 +1518,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Shortest Path
 |  |
