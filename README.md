@@ -723,6 +723,7 @@
 | [3893-generate-tag-for-video-caption](https://github.com/HazemKhairat/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [3905-partition-string](https://github.com/HazemKhairat/LeetCode/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HazemKhairat/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/HazemKhairat/LeetCode/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Prefix Sum
 |  |
@@ -1457,6 +1458,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/HazemKhairat/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HazemKhairat/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3863-power-grid-maintenance](https://github.com/HazemKhairat/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HazemKhairat/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -1529,6 +1531,7 @@
 | [3620-network-recovery-pathways](https://github.com/HazemKhairat/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HazemKhairat/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HazemKhairat/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2242,6 +2245,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HazemKhairat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/HazemKhairat/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/HazemKhairat/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HazemKhairat/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
