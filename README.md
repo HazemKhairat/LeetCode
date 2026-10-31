@@ -362,6 +362,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/HazemKhairat/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HazemKhairat/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HazemKhairat/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3665-twisted-mirror-path-count](https://github.com/HazemKhairat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HazemKhairat/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/HazemKhairat/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -517,6 +518,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/HazemKhairat/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HazemKhairat/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3665-twisted-mirror-path-count](https://github.com/HazemKhairat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/HazemKhairat/LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HazemKhairat/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/HazemKhairat/LeetCode/tree/master/3856-maximum-weighted-k-edge-path) |
@@ -1517,6 +1519,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HazemKhairat/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/HazemKhairat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3748-sort-matrix-by-diagonals](https://github.com/HazemKhairat/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/HazemKhairat/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
