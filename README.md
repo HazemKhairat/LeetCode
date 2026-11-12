@@ -290,6 +290,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/HazemKhairat/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/HazemKhairat/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3093-longest-common-suffix-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HazemKhairat/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3161-block-placement-queries](https://github.com/HazemKhairat/LeetCode/tree/master/3161-block-placement-queries) |
