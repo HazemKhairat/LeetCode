@@ -313,6 +313,7 @@
 | [3321-type-of-triangle](https://github.com/HazemKhairat/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HazemKhairat/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/HazemKhairat/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -761,6 +762,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/HazemKhairat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HazemKhairat/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/HazemKhairat/LeetCode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HazemKhairat/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HazemKhairat/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/HazemKhairat/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -1871,6 +1873,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HazemKhairat/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HazemKhairat/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HazemKhairat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HazemKhairat/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/HazemKhairat/LeetCode/tree/master/3483-alternating-groups-ii) |
