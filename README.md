@@ -147,6 +147,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HazemKhairat/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HazemKhairat/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/HazemKhairat/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HazemKhairat/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -491,6 +492,7 @@
 | [1340-jump-game-v](https://github.com/HazemKhairat/LeetCode/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HazemKhairat/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HazemKhairat/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HazemKhairat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/HazemKhairat/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -741,6 +743,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/HazemKhairat/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HazemKhairat/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HazemKhairat/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/HazemKhairat/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -1036,6 +1039,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/HazemKhairat/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/HazemKhairat/LeetCode/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HazemKhairat/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HazemKhairat/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/HazemKhairat/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HazemKhairat/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
